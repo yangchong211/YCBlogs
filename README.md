@@ -97,7 +97,7 @@
     - 轻量级线程池封装库，支持线程执行过程中状态回调监测(包含成功，失败，异常等多种状态)；支持创建异步任务，并且可以设置线程的名称，延迟执行时间，线程优先级，回调callback等；可以根据自己需要创建自己需要的线程池，一共有四种；线程异常时，可以打印异常日志，避免崩溃。
 - [04.Synchronize深入解析]()
     - Synchronize深入解析
-- [04.Thread关闭方法]()
+- [04.Thread关闭方法](https://github.com/yangchong211/YCBlogs/blob/master/java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/05.Thread%E5%85%B3%E9%97%AD%E6%96%B9%E6%B3%95.md)
     - 使用interrupt()方法终止线程,使用stop方法终止线程区别和使用场景
 
 
