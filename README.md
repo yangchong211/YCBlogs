@@ -79,9 +79,10 @@
     - ArrayList,Vector,LinkedList等集合的特点与区别
 - [04.Set集合深度解析](https://github.com/yangchong211/YCBlogs/blob/master/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/04.Set%E9%9B%86%E5%90%88%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
     - HashSet,LinkedHashSet,TreeSet等集合特点和区别
-- [05.Map集合深度解析](https://github.com/yangchong211/YCBlogs/blob/master/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/05.Map%E9%9B%86%E5%90%88%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
+- [05.Map集合深度解析](https://github.com/yangchong211/YCBlogs/blob/master/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/05.Map%E9%9B%86%E5%90%88%E5%9F%BA%E7%A1%80%E4%BB%8B%E7%BB%8D.md)
     - HashMap,LinkedHashMap,TreeMap等集合深入分析
-
+- [06.Map集合深度解析](https://github.com/yangchong211/YCBlogs/blob/master/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/06.Map%E9%9B%86%E5%90%88%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
+    - Map集合源码分析，容量和负载因子，线程安全性，扩容等
 
 
 #### 04.IO流知识
