@@ -972,11 +972,6 @@
 - 1.喜马拉雅思维导图
 - 2.喜马拉雅音频说明
 
-
-#### 1 喜马拉雅思维导图
-![image.png](http://upload-images.jianshu.io/upload_images/4432347-6b807459c24ee7ea.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
 #### 2 喜马拉雅音频说明
 >  **逻辑思维**
 - 逻辑思维链接地址：[http://www.ximalaya.com/71989305/album/9092771/](http://www.ximalaya.com/71989305/album/9092771/)
