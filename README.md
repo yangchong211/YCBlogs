@@ -329,6 +329,18 @@
 
 
 #### 20.零碎笔记
+- [02.Aidl进程间通信详细介绍](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/02.Aidl%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D.md)
+    - Aidl相关属性介绍，实际开发中案例操作，部分源码解析，客户端绑定服务端service原理
+- [03.Scheme协议详细介绍](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/03.Scheme%E5%8D%8F%E8%AE%AE%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D.md)
+    - Scheme协议格式解释，Scheme如何使用 ，Scheme在短信息中注意要点
+- [04.加密和解密](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/04.%E5%8A%A0%E5%AF%86%E5%92%8C%E8%A7%A3%E5%AF%86.md)
+    - 对称加密和非对称加密 ，加密和解密代码展示
+- [05.系统日志写入文件](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/05.%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97%E5%86%99%E5%85%A5%E6%96%87%E4%BB%B6.md)
+    - 自定义log工具类，一边打印日志一边写入文件，可以清除7天或者n天之前的日志文件
+- [06.数据序列化总结](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/06.%E6%95%B0%E6%8D%AE%E5%BA%8F%E5%88%97%E5%8C%96%E6%80%BB%E7%BB%93.md)
+    - 序列化简单介绍，Parcelable与Serializable的性能比较，性能测试方法分析
+
+
 
 
 ### bug分析大汇总
