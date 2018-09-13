@@ -22,9 +22,9 @@
     - 07.多媒体
     - 08.滑动冲突
     - 09.网络访问
-    - 10.优化相关
+    - 10.音视频
     - 11.WebView
-    - 12.音视频
+    - 12.网络相关
     - 13.组件化
     - 14.设计模式
     - 15.源码分析
@@ -303,7 +303,20 @@
 - [04.WebView源码分析](https://github.com/yangchong211/YCBlogs/blob/master/android/WebView/04.WebView%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
 
 
-#### 12.音视频
+
+#### 12.网络相关
+- [01.网络基础笔记](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/01.%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0.md)
+    - Http无连接与无状态区别，HTTP的缓存机制，HTTP协议Keep-Alive模式等等
+- [02.Retrofit基本使用](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/02.Retrofit%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8.md)
+    - Retrofit详细使用方法介绍，Retrofit与RxJava结合，Form表单提交与multipart/form-data，源码分析
+- [03.Http和Https区别](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/03.Http%E5%92%8CHttps%E5%8C%BA%E5%88%AB.md)
+- [04.TCP和UDP详细介绍](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/04.TCP%E5%92%8CUDP%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D.md)
+    - TCP和UDP的区别，三次握手建立连接，四次握手断开连接，Socket文件传输
+- [05.网络请求详解](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/05.%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82%E8%AF%A6%E8%A7%A3.md)
+    - Http请求与响应 ，Http请求方式 ，get和post请求的区别 
+- [07.Http状态码详解](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/07.Http%E7%8A%B6%E6%80%81%E7%A0%81%E8%AF%A6%E8%A7%A3.md)
+    - 属于整理内容，十分全面，方便查询状态码含义
+
 
 
 #### 13.组件化
