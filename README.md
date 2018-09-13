@@ -339,7 +339,8 @@
     - 自定义log工具类，一边打印日志一边写入文件，可以清除7天或者n天之前的日志文件
 - [06.数据序列化总结](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/06.%E6%95%B0%E6%8D%AE%E5%BA%8F%E5%88%97%E5%8C%96%E6%80%BB%E7%BB%93.md)
     - 序列化简单介绍，Parcelable与Serializable的性能比较，性能测试方法分析
-
+- [07.关于Activity跳转动画大汇总](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/07.%E5%85%B3%E4%BA%8EActivity%E8%B7%B3%E8%BD%AC%E5%8A%A8%E7%94%BB%E5%A4%A7%E6%B1%87%E6%80%BB.md)
+    - 关于Activity实现切换的方式，使用overridePendingTransition方法实现Activity跳转动画，使用ActivityOptions切换动画实现Activity跳转动画
 
 
 
