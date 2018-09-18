@@ -30,6 +30,7 @@
     - 15.源码分析
     - 16.优化相关
     - 20.零碎笔记
+    - 21.kotlin学习
 - bug分析大汇总
     - 01.bug总结一
     - 02.bug总结二
@@ -268,8 +269,8 @@
 
 
 #### 04.动画机制
-
-
+- [动画机制总结](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%8A%A8%E7%94%BB%E6%9C%BA%E5%88%B6/%E5%8A%A8%E7%94%BB%E6%9C%BA%E5%88%B6%E6%80%BB%E7%BB%93.md)
+    - Android动画类型分类，实现方式，ValueAnimator与ObjectAnimator区别，以及补间动画原理，部分源码分析
 
 
 #### 05.View事件
@@ -335,8 +336,12 @@
 
 
 #### 16.优化相关
-- [Android 懒加载优化](https://github.com/yangchong211/YCBlogs/blob/master/android/%E4%BC%98%E5%8C%96%E7%9B%B8%E5%85%B3/Android%20%E6%87%92%E5%8A%A0%E8%BD%BD%E4%BC%98%E5%8C%96.md)
-
+- [01.内存泄漏优化](https://github.com/yangchong211/YCBlogs/blob/master/android/%E4%BC%98%E5%8C%96%E7%9B%B8%E5%85%B3/01.%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E4%BC%98%E5%8C%96.md)
+    - 常见的内存泄漏场景分析，原理分析，及解决办法 
+- [02.ANR深入介绍](https://github.com/yangchong211/YCBlogs/blob/master/android/%E4%BC%98%E5%8C%96%E7%9B%B8%E5%85%B3/02.ANR%E6%B7%B1%E5%85%A5%E4%BB%8B%E7%BB%8D.md)
+    - 哪些情况会发生ANR，以及发生ANR后如何排查错误，及解决方案分析
+- [04.Android 懒加载优化](https://github.com/yangchong211/YCBlogs/blob/master/android/%E4%BC%98%E5%8C%96%E7%9B%B8%E5%85%B3/04.Android%20%E6%87%92%E5%8A%A0%E8%BD%BD%E4%BC%98%E5%8C%96.md)
+    - ViewPager+Fragment组合，当Fragment处理可见时，才去请求网络数据，同时onLazyLoad()加载数据条件，以及部分源码分析
 
 
 #### 20.零碎笔记
@@ -354,6 +359,9 @@
     - 关于Activity实现切换的方式，使用overridePendingTransition方法实现Activity跳转动画，使用ActivityOptions切换动画实现Activity跳转动画
 
 
+#### 21.kotlin学习
+- [Kotlin学习文档](https://github.com/yangchong211/YCBlogs/blob/master/android/Kotlin/Kotlin%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3.md)
+    - kotlin学习笔记，同时关于kotlin训练代码的案例可以参考我的开源项目[玩Android部分是用kotlin写的]：https://github.com/yangchong211/YCAudioPlayer
 
 ### bug分析大汇总
 
