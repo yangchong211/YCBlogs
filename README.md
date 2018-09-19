@@ -277,7 +277,9 @@
 
 
 
-#### 06.多线程
+#### 06.消息机制
+- [01.Handler消息机制](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%B6%88%E6%81%AF%E6%9C%BA%E5%88%B6/01.Handler%E6%B6%88%E6%81%AF%E6%9C%BA%E5%88%B6.md)
+    - 为什么不允许在子线程中访问UI，Handler消息机制作用，避免子线程手动创建looper，ActivityThread源码分析，ActivityThread源码分析，Looper死循环为什么不会导致应用卡死，会消耗大量资源吗？
 
 
 
