@@ -14,7 +14,7 @@
     - 11.Java深入
 - Android博客大汇总
     - 01.开源项目
-    - 02.四大组件
+    - 02.基础组件
     - 03.View事件
     - 04.动画机制
     - 05.View事件
@@ -260,8 +260,12 @@
 - 0.1.4 [Notification通知控制播放](http://www.jcodecraeer.com/plus/view.php?aid=9482)
 
 
-#### 02.四大组件
-
+#### 02.基础组件
+- [09.Selector选择器总结](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/09.Selector%E9%80%89%E6%8B%A9%E5%99%A8%E6%80%BB%E7%BB%93.md)
+- [10.Shape自定义图形汇总](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/10.Shape%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9B%BE%E5%BD%A2%E6%B1%87%E6%80%BB.md)
+- [11.Style样式汇总](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/11.Style%E6%A0%B7%E5%BC%8F%E6%B1%87%E6%80%BB.md)
+- [12.主题Theme的使用总结](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/12.%E4%B8%BB%E9%A2%98Theme%E7%9A%84%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.md)
+- [13.attr属性介绍](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/13.attr%E5%B1%9E%E6%80%A7%E4%BB%8B%E7%BB%8D.md)
 
 
 
