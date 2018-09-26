@@ -324,10 +324,13 @@
 - [02.Retrofit基本使用](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/02.Retrofit%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8.md)
     - Retrofit详细使用方法介绍，Retrofit与RxJava结合，Form表单提交与multipart/form-data，源码分析
 - [03.Http和Https区别](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/03.Http%E5%92%8CHttps%E5%8C%BA%E5%88%AB.md)
+    - http和https之间的区别，以及其他相关知识点
 - [04.TCP和UDP详细介绍](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/04.TCP%E5%92%8CUDP%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D.md)
     - TCP和UDP的区别，三次握手建立连接，四次握手断开连接，Socket文件传输
 - [05.网络请求详解](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/05.%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82%E8%AF%A6%E8%A7%A3.md)
     - Http请求与响应 ，Http请求方式 ，get和post请求的区别 
+- [06.Cookie、Session、Token笔记整理](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/06.Cookie%E3%80%81Session%E3%80%81Token%E7%AC%94%E8%AE%B0%E6%95%B4%E7%90%86.md)
+    - 关于cookie，session，和token使用场景介绍，以及它们之间有何区别
 - [07.Http状态码详解](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/07.Http%E7%8A%B6%E6%80%81%E7%A0%81%E8%AF%A6%E8%A7%A3.md)
     - 属于整理内容，十分全面，方便查询状态码含义
 
