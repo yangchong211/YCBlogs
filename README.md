@@ -132,7 +132,7 @@
 #### 11.Java深入
 - [01.四种引用比较与源码分析](https://github.com/yangchong211/YCBlogs/blob/master/java/Java%E6%B7%B1%E5%85%A5/01.%E5%9B%9B%E7%A7%8D%E5%BC%95%E7%94%A8%E6%AF%94%E8%BE%83%E4%B8%8E%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
     - 强引用,软引用,弱引用,虚引用的使用场景与区别，软引用SoftReference源码，弱引用WeakReference源码，虚引用PhantomReference源码分析
-- [02.Java内存分配机制及内存泄漏]()
+- [02.Java内存分配机制及内存泄漏](https://github.com/yangchong211/YCBlogs/blob/master/java/Java%E6%B7%B1%E5%85%A5/02.Java%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E6%9C%BA%E5%88%B6%E5%8F%8A%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F.md)
     - Java采用GC进行内存管理思维导图，JVM内存分配的几种策略，GC简单介绍，内存泄漏带来的影响，GC回收机制，垃圾回收思路及方法
 - [03.Hash和HashCode深入理解](https://github.com/yangchong211/YCBlogs/blob/master/java/Java%E6%B7%B1%E5%85%A5/03.Hash%E5%92%8CHashCode%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3.md)
     - Hash的定义，Hash的使用场景，HashCode是什么，为什么要重写HashCode，可直接用hashcode判断两个对象是否相等吗，Hash表是什么 ，Hash中的算法应用 ，Hash在Java中的应用场景
