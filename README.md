@@ -27,10 +27,11 @@
     - 12.网络相关
     - 13.组件化
     - 14.设计模式
-    - 15.源码分析
-    - 16.优化相关
+    - 15.优化相关
+    - 16.设计模式
     - 20.零碎笔记
     - 21.kotlin学习
+    - 22 源码分析
 - bug分析大汇总
     - 01.bug总结一
     - 02.bug总结二
@@ -342,17 +343,23 @@
 #### 14.设计模式
 
 
-#### 15.源码分析
-
-
-
-#### 16.优化相关
+#### 15.优化相关
 - [01.内存泄漏优化](https://github.com/yangchong211/YCBlogs/blob/master/android/%E4%BC%98%E5%8C%96%E7%9B%B8%E5%85%B3/01.%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E4%BC%98%E5%8C%96.md)
     - 常见的内存泄漏场景分析，原理分析，及解决办法 
 - [02.ANR深入介绍](https://github.com/yangchong211/YCBlogs/blob/master/android/%E4%BC%98%E5%8C%96%E7%9B%B8%E5%85%B3/02.ANR%E6%B7%B1%E5%85%A5%E4%BB%8B%E7%BB%8D.md)
     - 哪些情况会发生ANR，以及发生ANR后如何排查错误，及解决方案分析
 - [04.Android 懒加载优化](https://github.com/yangchong211/YCBlogs/blob/master/android/%E4%BC%98%E5%8C%96%E7%9B%B8%E5%85%B3/04.Android%20%E6%87%92%E5%8A%A0%E8%BD%BD%E4%BC%98%E5%8C%96.md)
     - ViewPager+Fragment组合，当Fragment处理可见时，才去请求网络数据，同时onLazyLoad()加载数据条件，以及部分源码分析
+
+
+
+#### 16.设计模式
+- [01.单例模式](https://github.com/yangchong211/YCBlogs/blob/master/android/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/01.%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
+    - 单例模式的实现方式，大概7种，懒汉式，饿汉式，DCL双重校验模式，静态内部类单例模式，枚举单例等等
+- [04.访问者模式](https://github.com/yangchong211/YCBlogs/blob/master/android/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/04.%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F.md)
+    - 访问者模式定义，访问者模式简单案例分析，访问者模式之Android源码分析之注解，注解之ButterKnife源码分析
+
+
 
 
 #### 20.零碎笔记
