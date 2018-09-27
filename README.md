@@ -31,7 +31,8 @@
     - 16.设计模式
     - 20.零碎笔记
     - 21.kotlin学习
-    - 22 源码分析
+    - 22.源码分析
+    - 23.架构技术
 - bug分析大汇总
     - 01.bug总结一
     - 02.bug总结二
@@ -376,12 +377,25 @@
     - 序列化简单介绍，Parcelable与Serializable的性能比较，性能测试方法分析
 - [07.关于Activity跳转动画大汇总](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/07.%E5%85%B3%E4%BA%8EActivity%E8%B7%B3%E8%BD%AC%E5%8A%A8%E7%94%BB%E5%A4%A7%E6%B1%87%E6%80%BB.md)
     - 关于Activity实现切换的方式，使用overridePendingTransition方法实现Activity跳转动画，使用ActivityOptions切换动画实现Activity跳转动画
+- [08.Android屏幕适配方案](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/08.Android%E5%B1%8F%E5%B9%95%E9%80%82%E9%85%8D%E6%96%B9%E6%A1%88.md)
+    - 屏幕适配定义，相关重要的概念 ，Android适配问题及本质 ，通配符适配困境，传统dp适配困境，今日头条适配方案等等
+- [09.Android编码规范](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/09.Android%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83.md)
+    - 包命名，类和接口命名，方法的命名，变量命名，成员变量命名，常量命名，异常命名等等；注释，类注释，方法注释，类成员变量和常量注释等等；代码风格，简单实用的规范文档
+- [11.产品开发流程](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/11.%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B.md)
+    - 属于整理性文章
 
 
 #### 21.kotlin学习
 - [01.Kotlin学习文档](https://github.com/yangchong211/YCBlogs/blob/master/android/Kotlin/Kotlin%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3.md)
     - kotlin学习笔记，同时关于kotlin训练代码的案例可以参考我的开源项目[玩Android部分是用kotlin写的]：https://github.com/yangchong211/YCAudioPlayer
 
+
+#### 22.源码分析
+
+
+#### 23.架构技术
+- [01.Android技术架构](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84/01.Android%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84.md)
+    - MVC架构简单介绍，MVC缺陷，MVP架构简单介绍，如何设计一个靠谱MVP架构，以及MVC和MVP之间比较，结合实际代码分析，避免过度设计
 
 
 ### bug分析大汇总
