@@ -402,7 +402,19 @@
     - kotlin学习笔记，同时关于kotlin训练代码的案例可以参考我的开源项目[玩Android部分是用kotlin写的]：https://github.com/yangchong211/YCAudioPlayer
 
 
-#### 22.源码分析
+#### 22.源码分析【待完善】
+- [01.Json源码解析与使用](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/01.Json%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%E4%B8%8E%E4%BD%BF%E7%94%A8.md)
+    -  Gson对象创建,生成Json字符串,fromJson和toJson的使用，序列化【model对象转变成json字符串】，反序列化【将json字符串转变成model对象】，TypeAdapter，JsonSerializer序列化接口，sonDeserializer反序列化接口
+- [02.Vlayout使用详细介绍](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/02.Vlayout%E4%BD%BF%E7%94%A8%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D.md)
+    - 主要功能介绍,使用方法与案例,相关类说明，和相关属性说明
+- [03.adb使用技巧](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/03.adb%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7.md)
+    - 遇到问题及解决方案，什么是ADB？adb 服务程序模块，ADB常用的命令
+- [04.RecyclerView源码分析](待完善)
+- [05.EventBus用法及源码解析]()
+- [06.DownloadManager源码分析]()
+- [07.Retrofit源码分析]()
+- [08.ButterKnife源码分析]()
+- [09.glide源码分析]()
 
 
 #### 23.架构技术
