@@ -263,6 +263,7 @@
 - 0.1.4 [Notification通知控制播放](http://www.jcodecraeer.com/plus/view.php?aid=9482)
 
 
+
 #### 02.基础组件
 - [09.Selector选择器总结](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/09.Selector%E9%80%89%E6%8B%A9%E5%99%A8%E6%80%BB%E7%BB%93.md)
 - [10.Shape自定义图形汇总](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/10.Shape%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9B%BE%E5%BD%A2%E6%B1%87%E6%80%BB.md)
@@ -279,7 +280,7 @@
     - onDraw源码分析，onDraw案例之绘制圆环 ，onDraw案例之绘制圆形ImageView 等等
 - [07.View之Canvas，Paint，Matrix，RectF等介绍](https://github.com/yangchong211/YCBlogs/blob/master/android/View%E4%BA%8B%E4%BB%B6%E6%9C%BA%E5%88%B6/07.View%E4%B9%8BCanvas%EF%BC%8CPaint%EF%BC%8CMatrix%EF%BC%8CRectF%E7%AD%89%E4%BB%8B%E7%BB%8D.md)
     - Paint画笔介绍，图形绘制，文本绘制；Canvas画布介绍，设置属性，画图【重点】；Matrix变换矩阵介绍 ，RectF介绍 ，关于使用到这几个属性的自定义View案例
-
+- []()
 
 
 #### 04.动画机制
@@ -307,9 +308,12 @@
 
 #### 09.多线程
 - [01.线程池基础介绍](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%A4%9A%E7%BA%BF%E7%A8%8B/01.%E7%BA%BF%E7%A8%8B%E6%B1%A0%E5%9F%BA%E7%A1%80%E4%BB%8B%E7%BB%8D.md)
+    - ThreadPoolExecutor类介绍，关于线程池的分类，线程池一般用法，线程创建规则
 - [02.线程池封装库](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%A4%9A%E7%BA%BF%E7%A8%8B/02.%E7%BA%BF%E7%A8%8B%E6%B1%A0%E5%B0%81%E8%A3%85%E5%BA%93.md)
+    - 轻量级线程池封装库，支持线程执行过程中状态回调监测(包含成功，失败，异常等多种状态)；支持创建异步任务，并且可以设置线程的名称，延迟执行时间，线程优先级，回调callback等；可以根据自己需要创建自己需要的线程池，一共有四种；线程异常时，可以打印异常日志，避免崩溃。
 - [03.AsyncTask异步任务类](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%A4%9A%E7%BA%BF%E7%A8%8B/03.AsyncTask%E5%BC%82%E6%AD%A5%E4%BB%BB%E5%8A%A1%E7%B1%BB.md)
 - [04.IntentService源码分析](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%A4%9A%E7%BA%BF%E7%A8%8B/04.IntentService%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
+    - IntentService的作用，使用场景，源码分析，整体源码展示及归纳，如何单独开启1个新的工作线程，IntentService如何将Intent传递给服务并且依次插入到工作队列中，IntentService与其他线程对比，HandlerThread深入分析
 
 
 
@@ -320,10 +324,13 @@
 #### 11.WebView
 - [00.基于腾讯X5的WebView本地緩存优化方案](https://github.com/yangchong211/YCBlogs/blob/master/android/WebView/00.%E5%9F%BA%E4%BA%8E%E8%85%BE%E8%AE%AFX5%E7%9A%84WebView%E6%9C%AC%E5%9C%B0%E7%B7%A9%E5%AD%98%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.md)
 - [01.WebView基础使用](https://github.com/yangchong211/YCBlogs/blob/master/android/WebView/01.WebView%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8.md)
+    - WebView的常用方法，WebView常用类的介绍，WebView注意事项，WebView滑动监听，为WebView自定义错误显示界面，判断WebView是否已经滚动到页面底端
 - [02.WebView和js交互](https://github.com/yangchong211/YCBlogs/blob/master/android/WebView/02.WebView%E5%92%8Cjs%E4%BA%A4%E4%BA%92.md)
+    -  Android去调用JS的代码方式，JS去调用Android的代码方式，Android 调用HTML中的javascript脚本并传递参数，HTML中的javascript脚本调用Android本地代码并传递参数，什么时候注入js探索
 - [03.WebView防坑总结](https://github.com/yangchong211/YCBlogs/blob/master/android/WebView/03.WebView%E9%98%B2%E5%9D%91%E6%80%BB%E7%BB%93.md)
+    - WebView页面中播放音视频,退出Activity后仍然有声音，后台无法释放js导致发热耗电，301/302业务场景及白屏问题，WebSettings.setJavaScriptEnabled安全问题，加载证书错误，WebView内存泄漏问题场景和解决办法，如何处理加载错误(Http、SSL、Resource)？，如何操作cookie？H5页面如何处理登录失效问题？，H5页面有混合http和https的链接，5.0以上系统不支持混合模式，需要通过配置来开启
 - [04.WebView源码分析](https://github.com/yangchong211/YCBlogs/blob/master/android/WebView/04.WebView%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
-
+    - loadurl，LoadData ，loadDataWithBaseURL分析
 
 
 #### 12.网络相关
