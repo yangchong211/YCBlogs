@@ -273,7 +273,12 @@
 
 
 #### 03.View事件
-
+- [02.View事件机制](https://github.com/yangchong211/YCBlogs/blob/master/android/View%E4%BA%8B%E4%BB%B6%E6%9C%BA%E5%88%B6/02.View%E4%BA%8B%E4%BB%B6%E6%9C%BA%E5%88%B6.md)
+    - 触摸事件,分发事件,拦截事件,三个事件机制怎么向其调用者传递处理结果,滑动冲突的思路及方法 ，以及具体的滑动冲突解决方案案例
+- [06.View之onDraw深入介绍](https://github.com/yangchong211/YCBlogs/blob/master/android/View%E4%BA%8B%E4%BB%B6%E6%9C%BA%E5%88%B6/06.View%E4%B9%8BonDraw%E6%B7%B1%E5%85%A5%E4%BB%8B%E7%BB%8D.md)
+    - onDraw源码分析，onDraw案例之绘制圆环 ，onDraw案例之绘制圆形ImageView 等等
+- [07.View之Canvas，Paint，Matrix，RectF等介绍](https://github.com/yangchong211/YCBlogs/blob/master/android/View%E4%BA%8B%E4%BB%B6%E6%9C%BA%E5%88%B6/07.View%E4%B9%8BCanvas%EF%BC%8CPaint%EF%BC%8CMatrix%EF%BC%8CRectF%E7%AD%89%E4%BB%8B%E7%BB%8D.md)
+    - Paint画笔介绍，图形绘制，文本绘制；Canvas画布介绍，设置属性，画图【重点】；Matrix变换矩阵介绍 ，RectF介绍 ，关于使用到这几个属性的自定义View案例
 
 
 
