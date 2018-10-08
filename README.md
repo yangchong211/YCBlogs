@@ -1246,7 +1246,14 @@
 - 28.[关键词，心灵鸡汤](http://www.ximalaya.com/71989305/sound/48374097/)    |  29.[关键词，你怎样看待逼捐](http://www.ximalaya.com/71989305/sound/48782230/)   |   30.[关键词，坚持和捷径](http://www.ximalaya.com/71989305/sound/55644081/)
 - 31.[关键词，输入和输出](http://www.ximalaya.com/71989305/sound/56945530/)    |  32.[关键词，颜回吃米](http://www.ximalaya.com/71989305/sound/59758004/)   |   33.[关键词，勤奋无难事](http://www.ximalaya.com/71989305/sound/59761297/)
 - 34.[关键词，耿直和自私](http://www.ximalaya.com/71989305/sound/62804726/)    |  35.[关键词，什么是稳定](http://www.ximalaya.com/71989305/sound/64031317/)   |   36.[关键词，英雄联盟](http://www.ximalaya.com/71989305/sound/64217065/)
-- 37.[关键词，文具争功](http://www.ximalaya.com/71989305/sound/66926692/)
+- 37.[关键词，文具争功](http://www.ximalaya.com/71989305/sound/66926692/)    |  38.[关键词，三生三世之凉凉](https://www.ximalaya.com/jiaoyu/9092771/67918244)   |   39.[关键词，借钱，建立目标感](https://www.ximalaya.com/jiaoyu/9092771/107755598)
+- 40.[关键词，公司罚款](https://www.ximalaya.com/jiaoyu/9092771/107757974)    |  41.[关键词，撩和追，什么是真喜欢](https://www.ximalaya.com/jiaoyu/9092771/107764232)   |   42.[关键词，得意时教养](https://www.ximalaya.com/jiaoyu/9092771/107766149)
+- 43.[关键词，朋友间样子](https://www.ximalaya.com/jiaoyu/9092771/107768540)    |  44.[关键词，命运之神](https://www.ximalaya.com/jiaoyu/9092771/107786032)   |   45.[关键词，反鸡汤，鸡汤的危害](https://www.ximalaya.com/jiaoyu/9092771/107788646)
+- 46.[关键词，教堂和寺庙](https://www.ximalaya.com/jiaoyu/9092771/107792230)    |  47.[关键词，耗费精力，如何避免](https://www.ximalaya.com/jiaoyu/9092771/107927876)   |   48.[关键词，碎片化弊端，有何办法？](https://www.ximalaya.com/jiaoyu/9092771/107930201)
+- 49.[关键词，莫论是非，常思自己](https://www.ximalaya.com/jiaoyu/9092771/107934466)    |  50.[关键词，慎独时约束，自我监督](https://www.ximalaya.com/jiaoyu/9092771/107959214)   |   51.[关键词，经济独立，很重要](https://www.ximalaya.com/jiaoyu/9092771/107963360)
+- 52.[关键词，键盘大侠，无所不能](https://www.ximalaya.com/jiaoyu/9092771/107966620)    |  53.[关键词，键盘大侠，无所不能](https://www.ximalaya.com/jiaoyu/9092771/107966620)   |   54.[关键词，换位思考，是个伪命题](https://www.ximalaya.com/jiaoyu/9092771/107970044)
+- 55.[关键词，朋友圈的点滴](https://www.ximalaya.com/jiaoyu/9092771/107978931)    |  56.[关键词，朋友圈里可怕的营销](https://www.ximalaya.com/jiaoyu/9092771/107753491)   |   57.[关键词，麻将精神，值得学习的麻将八种精神](https://www.ximalaya.com/jiaoyu/9092771/42548014)
+
 
 
 
