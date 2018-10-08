@@ -50,17 +50,20 @@
 
 ### Java博客大汇总
 #### 01.Java基础
-- [01.Java基础知识](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/01.Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
-    - 知识点：基础知识点总结
-- [02.泛型](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/02.%E6%B3%9B%E5%9E%8B.md)
-    - 知识点：泛型作用，使用方法，泛型擦除解析
-- [03.常见的API方法](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/03.%E5%B8%B8%E8%A7%81%E7%9A%84API%E6%96%B9%E6%B3%95.md)
+- [01.Java 关键字汇总](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/01.Java%20%E5%85%B3%E9%94%AE%E5%AD%97%E6%B1%87%E6%80%BB.md)
+    - 常见的关键字，重要关键字说明，持续汇总中
+- [02.Java基础知识](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/02.Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
+    - 知识点：基础知识点总结，标识符规则，进制，字符编码，运算符，方法，内存分配以及栈和堆
+- [03.泛型](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/03.%E6%B3%9B%E5%9E%8B.md)
+    - 知识点：泛型高级之通配符，泛型作用，使用方法，泛型方法和泛型类的比较，泛型擦除解析
+- [04.常见的API方法](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/04.%E5%B8%B8%E8%A7%81%E7%9A%84API%E6%96%B9%E6%B3%95.md)
     - 知识点：常用api
-- [04.String类深入理解](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/04.String%E7%B1%BB%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3.md)
-    - 知识点：String的创建机理，StringBuffer/StringBuilder，String字符串是如何设计与实现考量的？
-- [05.int和Integer深入分析](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/05.int%E5%92%8CInteger%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90.md)
-    - 知识点：Integer的值缓存的原理，理解自动装箱和拆箱，原始类型线程安全问题等等
-
+- [05.String类深入理解](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/05.String%E7%B1%BB%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3.md)
+    - 知识点：String的创建机理，StringBuffer/StringBuilder，String字符串是如何设计与实现考量的？String不可变的好处？
+- [06.int和Integer深入分析](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/06.int%E5%92%8CInteger%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90.md)
+    - 知识点：Integer的值缓存的原理，理解自动装箱和拆箱，如何验证int类型是否线程安全，Java 原始数据类型和引用类型局限性，原始类型线程安全问题等等
+- [07.基础类型缓存池概念](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/07.%E5%9F%BA%E7%A1%80%E7%B1%BB%E5%9E%8B%E7%BC%93%E5%AD%98%E6%B1%A0%E6%A6%82%E5%BF%B5.md)
+    - new Integer(123) 与 Integer.valueOf(123) 的区别，基本类型对应的缓冲池
 
 
 
@@ -68,9 +71,13 @@
 - [01.面向对象基础](https://github.com/yangchong211/YCBlogs/blob/master/java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/01.%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80.md)
     - 面向对象的思想【思想，特征】,类和对象及其应用,对象的内存图,成员变量和局部变量区别等等
 - [02.封装继承多态](https://github.com/yangchong211/YCBlogs/blob/master/java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/02.%E5%B0%81%E8%A3%85%E7%BB%A7%E6%89%BF%E5%A4%9A%E6%80%81.md)    
-    - 封装继承多态,抽象类和接口，四种权限修饰符，内部类概述和访问特点等等
-
-
+    - 封装继承多态,面向对象之static关键字的特点，静态变量和成员变量的区别，方法重写，方法重载，多态的弊端和好处
+- [03.抽象类和接口](https://github.com/yangchong211/YCBlogs/blob/master/java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/03.%E6%8A%BD%E8%B1%A1%E7%B1%BB%E5%92%8C%E6%8E%A5%E5%8F%A3.md)
+    - 抽象类特点，接口特点，抽象类与接口的区别
+- [04.包和权限修饰符](https://github.com/yangchong211/YCBlogs/blob/master/java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/04.%E5%8C%85%E5%92%8C%E6%9D%83%E9%99%90%E4%BF%AE%E9%A5%B0%E7%AC%A6.md)
+    - 包的定义及package，四种权限修饰符的测试，类及其组成所使用的常见修饰符
+- [05.匿名内部类和其他](https://github.com/yangchong211/YCBlogs/blob/master/java/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/05.%E5%8C%BF%E5%90%8D%E5%86%85%E9%83%A8%E7%B1%BB%E5%92%8C%E5%85%B6%E4%BB%96.md)
+    - 内部类概述和访问特点，匿名内部类，为什么内部类调用的外部变量必须是final修饰的？ 
 
 
 
@@ -78,7 +85,7 @@
 - [01.常见的数据结构](https://github.com/yangchong211/YCBlogs/blob/master/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/01.%E5%B8%B8%E8%A7%81%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
     - 常见的数据类型，数组，集合，栈，堆，链表，图，队列，树
 - [02.Java常用数据结构深度解析](https://github.com/yangchong211/YCBlogs/blob/master/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/02.Java%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
-    - 集合概括与总结
+    - 集合概括与总结，集合的遍历，迭代器的原理，List集合如何选择合适的
 - [03.List集合深度解析](https://github.com/yangchong211/YCBlogs/blob/master/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/03.List%E9%9B%86%E5%90%88%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
     - ArrayList,Vector,LinkedList等集合的特点与区别
 - [04.Set集合深度解析](https://github.com/yangchong211/YCBlogs/blob/master/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/04.Set%E9%9B%86%E5%90%88%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
@@ -87,10 +94,15 @@
     - HashMap,LinkedHashMap,TreeMap等集合深入分析
 - [06.Map集合深度解析](https://github.com/yangchong211/YCBlogs/blob/master/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/06.Map%E9%9B%86%E5%90%88%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
     - Map集合源码分析，容量和负载因子，线程安全性，扩容等
+- [07.ConcurrentHashMap深度解析](https://github.com/yangchong211/YCBlogs/blob/master/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/07.ConcurrentHashMap%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
+    - HashMap和HashTable困境，ConcurrentHashMap应用场景 ，ConcurrentHashMap基本原理锁分段技术，待完善
 
 
 #### 04.IO流知识
-
+- [01.IO流基础知识](https://github.com/yangchong211/YCBlogs/blob/master/java/IO%E6%B5%81%E7%9F%A5%E8%AF%86/01.IO%E6%B5%81%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
+    - IO流整体介绍，输入流和输出流分类，IO流案例，Buffer缓冲数据流，字节流四种方式复制MP3并测试效率
+- [02.IO流其他知识](https://github.com/yangchong211/YCBlogs/blob/master/java/IO%E6%B5%81%E7%9F%A5%E8%AF%86/02.IO%E6%B5%81%E5%85%B6%E4%BB%96%E7%9F%A5%E8%AF%86.md)
+    - String中的编解码问题，字符流的5种写数据的方式，字符流的2种读数据的方式，高效流FileWriter和FileReader，IO流的练习题 
 
 
 #### 05.Java多线程
@@ -100,15 +112,20 @@
     - 线程池的api介绍与使用
 - [03.线程池封装库](https://github.com/yangchong211/YCBlogs/blob/master/java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/03.%E7%BA%BF%E7%A8%8B%E6%B1%A0%E5%B0%81%E8%A3%85%E5%BA%93.md)
     - 轻量级线程池封装库，支持线程执行过程中状态回调监测(包含成功，失败，异常等多种状态)；支持创建异步任务，并且可以设置线程的名称，延迟执行时间，线程优先级，回调callback等；可以根据自己需要创建自己需要的线程池，一共有四种；线程异常时，可以打印异常日志，避免崩溃。
-- [04.Synchronize深入解析]()
-    - Synchronize深入解析
-- [04.Thread关闭方法](https://github.com/yangchong211/YCBlogs/blob/master/java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/05.Thread%E5%85%B3%E9%97%AD%E6%96%B9%E6%B3%95.md)
+- [04.Synchronize深入解析](https://github.com/yangchong211/YCBlogs/blob/master/java/Java多线程/04.Synchronize深入解析.md)
+    - Synchronize深入解析，sychonized method 和 synchonized代码块的效率问题
+- [05.Thread关闭方法](https://github.com/yangchong211/YCBlogs/blob/master/java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/05.Thread%E5%85%B3%E9%97%AD%E6%96%B9%E6%B3%95.md)
     - 使用interrupt()方法终止线程,使用stop方法终止线程区别和使用场景
 
 
 
 #### 06.网络编程
-
+- [01.网络编程基础知识](https://github.com/yangchong211/YCBlogs/blob/master/java/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/01.%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
+    - 网络模型7层概述，网络编程端口，协议，Socket通信原理图解
+- [02.网络基础笔记](https://github.com/yangchong211/YCBlogs/blob/master/java/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/02.%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0.md)
+    - Http相关知识点，无连接与无状态，HTTP的缓存机制，短连接与长连接，HTTPS为什么安全，HTTP协议Keep-Alive模式 ，Keep-Alive方式下如何判断消息内容/长度的大小？
+- [03.TCP和UDP详细介绍](https://github.com/yangchong211/YCBlogs/blob/master/java/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/03.TCP%E5%92%8CUDP%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D.md)
+    - TCP和UDP的区别 ，UDP协议传输数据 ，TCP协议传输数据 ，为什么建立连接需要三次握手，四次握手断开连接
 
 
 #### 07.类的加载
@@ -117,7 +134,9 @@
 
 #### 08.反射原理
 - [01.反射详细介绍](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%8F%8D%E5%B0%84%E5%8E%9F%E7%90%86/01.%E5%8F%8D%E5%B0%84%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D.md)
-    - 反射的使用，相关方法介绍，以及原理和性能分析
+    - 反射的使用，相关方法介绍，以及原理和性能分析,try、catch、finally语句块的执行顺序，处理异常机制深入理解
+- [02.反射进阶](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%8F%8D%E5%B0%84%E5%8E%9F%E7%90%86/02.%E5%8F%8D%E5%B0%84%E8%BF%9B%E9%98%B6.md)
+    - 如何防止反射序列化攻击单例
 
 
 #### 09.数据算法
@@ -128,6 +147,7 @@
 - [01.异常机制详解](https://github.com/yangchong211/YCBlogs/blob/master/java/Java%E5%BC%82%E5%B8%B8/01.%E5%BC%82%E5%B8%B8%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3.md)
     - Error(错误),Exception(异常)基础概念的介绍
 - [02.异常之Exception 和 Error](https://github.com/yangchong211/YCBlogs/blob/master/java/Java%E5%BC%82%E5%B8%B8/02.%E5%BC%82%E5%B8%B8%E4%B9%8BException%20%E5%92%8C%20Error.md)
+    - 对比 Exception 和 Error，运行时异常与一般异常有什么区别？为什么开发中建议开发者捕获异常而不要抛出异常？
 
 
 #### 11.Java深入
