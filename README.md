@@ -319,7 +319,10 @@
 
 
 #### 07.多媒体
-
+- [01.图片相关整理](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%A4%9A%E5%AA%92%E4%BD%93/01.%E5%9B%BE%E7%89%87%E7%9B%B8%E5%85%B3%E6%95%B4%E7%90%86.md)
+    - 加载图片的压缩处理技术，网络url图片转换Bitmap保存到本地 ，保存bitmap图片到本地文件夹，实现带有圆角的图片 ，轮播图背景做高斯模糊，高斯模糊可能会造成的崩溃以及解决办法
+- [03.Bitmap相关](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%A4%9A%E5%AA%92%E4%BD%93/03.Bitmap%E7%9B%B8%E5%85%B3.md)
+    - Bitmap，Drawable，InputStream，Byte[ ] 之间进行转换，Bitmap图片压缩，将View控件转换为bitmap，Bitmap优化逻辑与原理，如何计算bitmap占用内存大小
 
 
 #### 08.滑动冲突
@@ -342,7 +345,6 @@
 
 
 #### 11.WebView
-- [00.基于腾讯X5的WebView本地緩存优化方案](https://github.com/yangchong211/YCBlogs/blob/master/android/WebView/00.%E5%9F%BA%E4%BA%8E%E8%85%BE%E8%AE%AFX5%E7%9A%84WebView%E6%9C%AC%E5%9C%B0%E7%B7%A9%E5%AD%98%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88.md)
 - [01.WebView基础使用](https://github.com/yangchong211/YCBlogs/blob/master/android/WebView/01.WebView%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8.md)
     - WebView的常用方法，WebView常用类的介绍，WebView注意事项，WebView滑动监听，为WebView自定义错误显示界面，判断WebView是否已经滚动到页面底端
 - [02.WebView和js交互](https://github.com/yangchong211/YCBlogs/blob/master/android/WebView/02.WebView%E5%92%8Cjs%E4%BA%A4%E4%BA%92.md)
