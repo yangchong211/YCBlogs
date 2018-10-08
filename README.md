@@ -442,7 +442,8 @@
     - 主要功能介绍,使用方法与案例,相关类说明，和相关属性说明
 - [03.adb使用技巧](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/03.adb%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7.md)
     - 遇到问题及解决方案，什么是ADB？adb 服务程序模块，ADB常用的命令
-- [04.RecyclerView源码分析](待完善)
+- [04.RecyclerView源码分析](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/04.RecyclerView%E7%94%A8%E6%B3%95%E5%92%8C%E6%BA%90%E7%A0%81%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
+    - RecycleView的结构，RecyclerView.Adapter扮演的角色与代码分析，notifyDataSetChanged()刷新数据之观察者模式，ViewHolder的作用，复用原理，以及简单封装，setLayoutManager(LayoutManager layout)源码，addItemDecoration()源码分析 ，ItemAnimator动画，Recycler && RecycledViewPool概念，RecyclerView嵌套方案滑动冲突解决方案 ，RecyclerView复杂布局封装库案例
 - [05.EventBus用法及源码解析]()
 - [06.DownloadManager源码分析]()
 - [07.Retrofit源码分析]()
