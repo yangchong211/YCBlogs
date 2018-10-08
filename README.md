@@ -26,7 +26,7 @@
     - 11.WebView
     - 12.网络相关
     - 13.组件化
-    - 14.设计模式
+    - 14.音视频
     - 15.优化相关
     - 16.设计模式
     - 20.零碎笔记
@@ -376,18 +376,21 @@
 #### 13.组件化
 
 
-#### 14.设计模式
+#### 14.音视频
+
 
 
 #### 15.优化相关
 - [01.内存泄漏优化](https://github.com/yangchong211/YCBlogs/blob/master/android/%E4%BC%98%E5%8C%96%E7%9B%B8%E5%85%B3/01.%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E4%BC%98%E5%8C%96.md)
-    - 常见的内存泄漏场景分析，原理分析，及解决办法 
+    - 常见的内存泄漏场景分析，原理分析，及解决办法，比如：错误使用单例造成的内存泄漏，错误使用静态变量，Handler使用不当造成的内存泄漏，非静态内部类创建静态实例造成的内存泄漏，资源未关闭造成的内存泄漏，动画资源未释放导致内存泄漏等等
 - [02.ANR深入介绍](https://github.com/yangchong211/YCBlogs/blob/master/android/%E4%BC%98%E5%8C%96%E7%9B%B8%E5%85%B3/02.ANR%E6%B7%B1%E5%85%A5%E4%BB%8B%E7%BB%8D.md)
     - 哪些情况会发生ANR，以及发生ANR后如何排查错误，及解决方案分析
 - [04.Android 懒加载优化](https://github.com/yangchong211/YCBlogs/blob/master/android/%E4%BC%98%E5%8C%96%E7%9B%B8%E5%85%B3/04.Android%20%E6%87%92%E5%8A%A0%E8%BD%BD%E4%BC%98%E5%8C%96.md)
     - ViewPager+Fragment组合，当Fragment处理可见时，才去请求网络数据，同时onLazyLoad()加载数据条件，以及部分源码分析
-- []()
-- []()
+- [07.Android优化总结](https://github.com/yangchong211/YCBlogs/blob/master/android/%E4%BC%98%E5%8C%96%E7%9B%B8%E5%85%B3/07.Android%E4%BC%98%E5%8C%96%E6%80%BB%E7%BB%93.md)
+    - 性能优化，内存泄漏优化，布局优化，代码优化，网络优化，线程优化
+- [08.静态代码分析实战](https://github.com/yangchong211/YCBlogs/blob/master/android/%E4%BC%98%E5%8C%96%E7%9B%B8%E5%85%B3/08.%E9%9D%99%E6%80%81%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90%E5%AE%9E%E6%88%98.md)
+    - Lint静态代码分析工具，移除无效代码
 
 
 
@@ -395,9 +398,12 @@
 #### 16.设计模式
 - [01.单例模式](https://github.com/yangchong211/YCBlogs/blob/master/android/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/01.%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
     - 单例模式的实现方式，大概7种，懒汉式，饿汉式，DCL双重校验模式，静态内部类单例模式，枚举单例等等
+- [02.Builder模式]()
+- [03.观察者模式]()
 - [04.访问者模式](https://github.com/yangchong211/YCBlogs/blob/master/android/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/04.%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F.md)
     - 访问者模式定义，访问者模式简单案例分析，访问者模式之Android源码分析之注解，注解之ButterKnife源码分析
-
+- [05.装饰者模式]()
+- [06.适配器模式]()
 
 
 
@@ -407,7 +413,7 @@
 - [03.Scheme协议详细介绍](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/03.Scheme%E5%8D%8F%E8%AE%AE%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D.md)
     - Scheme协议格式解释，Scheme如何使用 ，Scheme在短信息中注意要点
 - [04.加密和解密](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/04.%E5%8A%A0%E5%AF%86%E5%92%8C%E8%A7%A3%E5%AF%86.md)
-    - 对称加密和非对称加密 ，加密和解密代码展示
+    - 对称加密和非对称加密 ，加密和解密代码展示，非对称加密用途，RSA非对称加解密案例代码分析，注意RSA加密填充方式，RSA加密内容长度限制问题， 加解密效率测试
 - [05.系统日志写入文件](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/05.%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97%E5%86%99%E5%85%A5%E6%96%87%E4%BB%B6.md)
     - 自定义log工具类，一边打印日志一边写入文件，可以清除7天或者n天之前的日志文件
 - [06.数据序列化总结](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/06.%E6%95%B0%E6%8D%AE%E5%BA%8F%E5%88%97%E5%8C%96%E6%80%BB%E7%BB%93.md)
@@ -418,6 +424,8 @@
     - 屏幕适配定义，相关重要的概念 ，Android适配问题及本质 ，通配符适配困境，传统dp适配困境，今日头条适配方案等等
 - [09.Android编码规范](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/09.Android%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83.md)
     - 包命名，类和接口命名，方法的命名，变量命名，成员变量命名，常量命名，异常命名等等；注释，类注释，方法注释，类成员变量和常量注释等等；代码风格，简单实用的规范文档
+- [10.上传提交代码到jcenter]()
+    - 详细的方法流程步骤
 - [11.产品开发流程](https://github.com/yangchong211/YCBlogs/blob/master/android/%E7%BB%8F%E5%85%B8%E6%80%BB%E7%BB%93/11.%E4%BA%A7%E5%93%81%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B.md)
     - 属于整理性文章
 
