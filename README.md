@@ -422,8 +422,11 @@
 #### 16.设计模式
 - [01.单例模式](https://github.com/yangchong211/YCBlogs/blob/master/android/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/01.%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
     - 单例模式的实现方式，大概7种，懒汉式，饿汉式，DCL双重校验模式，静态内部类单例模式，枚举单例等等
-- [02.Builder模式]()
-- [03.观察者模式]()
+- [02.Builder模式](https://github.com/yangchong211/YCBlogs/blob/master/android/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/02.Builder%E6%A8%A1%E5%BC%8F.md)
+    - Builder模式使用场景，简单案例，Builder模式实际案例Demo展示，看看AlertDialog.Builder源代码如何实现，为什么AlertDialog要使用builder模式呢？builder模式优缺点分析。
+    - 关于builder模式经典的案例可以参考我的弹窗封装库：https://github.com/yangchong211/YCDialog
+- [03.观察者模式](https://github.com/yangchong211/YCBlogs/blob/master/android/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/03.%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md)
+    - 观察者使用场景，简单实现，观察者从哪里来的，查看setAdapter源代码，EventBus事件总线
 - [04.访问者模式](https://github.com/yangchong211/YCBlogs/blob/master/android/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/04.%E8%AE%BF%E9%97%AE%E8%80%85%E6%A8%A1%E5%BC%8F.md)
     - 访问者模式定义，访问者模式简单案例分析，访问者模式之Android源码分析之注解，注解之ButterKnife源码分析
 - [05.装饰者模式]()
