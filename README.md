@@ -22,7 +22,7 @@
     - 07.多媒体
     - 08.滑动冲突
     - 09.多线程
-    - 10.音视频
+    - 10.Window
     - 11.WebView
     - 12.网络相关
     - 13.组件化
@@ -351,7 +351,20 @@
 
 
 
-#### 10.优化相关
+#### 10.Window
+- [01.Activity、Window、View三者关系](https://github.com/yangchong211/YCBlogs/blob/master/android/Window/01.Activity%E3%80%81Window%E3%80%81View%E4%B8%89%E8%80%85%E5%85%B3%E7%B3%BB.md)
+    - 深入分析Activity、Window、View三者之间的关系
+- [02.Toast源码深度分析](https://github.com/yangchong211/YCBlogs/blob/master/android/Window/02.Toast%E6%BA%90%E7%A0%81%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90.md)
+    - 最简单的创建，简单改造避免重复创建，show()方法源码分析，scheduleTimeoutLocked吐司如何自动销毁的，TN类中的消息机制是如何执行的，普通应用的Toast显示数量是有限制的，用代码解释为何Activity销毁后Toast仍会显示，Toast偶尔报错Unable to add window是如何产生的，Toast运行在子线程问题，Toast如何添加系统窗口的权限等等
+- [03.DialogFragment源码分析](https://github.com/yangchong211/YCBlogs/blob/master/android/Window/03.DialogFragment%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
+    - 最简单的使用方法，onCreate(@Nullable Bundle savedInstanceState)源码分析，重点分析弹窗展示和销毁源码，使用中show()方法遇到的IllegalStateException分析
+- [04.Dialog源码分析]()
+- [05.PopupWindow源码分析](https://github.com/yangchong211/YCBlogs/blob/master/android/Window/05.PopupWindow%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
+    - 显示PopupWindow，注意问题宽和高属性，showAsDropDown()源码，dismiss()源码分析，PopupWindow和Dialog有什么区别？为何弹窗点击一下就dismiss呢？
+- [06.Snackbar源码分析](https://github.com/yangchong211/YCBlogs/blob/master/android/Window/06.Snackbar%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
+    - 最简单的创建，Snackbar的make方法源码分析，Snackbar的show显示与点击消失源码分析，显示和隐藏中动画源码分析，Snackbar的设计思路，为什么Snackbar总是显示在最下面
+- [07.弹窗常见问题](https://github.com/yangchong211/YCBlogs/blob/master/android/Window/07.%E5%BC%B9%E7%AA%97%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md)
+    - DialogFragment使用中show()方法遇到的IllegalStateException,什么常见产生的？Toast偶尔报错Unable to add window，Toast运行在子线程导致崩溃如何解决？
 
 
 
