@@ -358,7 +358,8 @@
     - 最简单的创建，简单改造避免重复创建，show()方法源码分析，scheduleTimeoutLocked吐司如何自动销毁的，TN类中的消息机制是如何执行的，普通应用的Toast显示数量是有限制的，用代码解释为何Activity销毁后Toast仍会显示，Toast偶尔报错Unable to add window是如何产生的，Toast运行在子线程问题，Toast如何添加系统窗口的权限等等
 - [03.DialogFragment源码分析](https://github.com/yangchong211/YCBlogs/blob/master/android/Window/03.DialogFragment%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
     - 最简单的使用方法，onCreate(@Nullable Bundle savedInstanceState)源码分析，重点分析弹窗展示和销毁源码，使用中show()方法遇到的IllegalStateException分析
-- [04.Dialog源码分析]()
+- [04.Dialog源码分析](https://github.com/yangchong211/YCBlogs/blob/master/android/Window/04.Dialog%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
+    - AlertDialog源码分析，通过AlertDialog.Builder对象设置属性，Dialog生命周期，Dialog中show方法展示弹窗分析，Dialog的dismiss销毁弹窗，Dialog弹窗问题分析等等
 - [05.PopupWindow源码分析](https://github.com/yangchong211/YCBlogs/blob/master/android/Window/05.PopupWindow%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
     - 显示PopupWindow，注意问题宽和高属性，showAsDropDown()源码，dismiss()源码分析，PopupWindow和Dialog有什么区别？为何弹窗点击一下就dismiss呢？
 - [06.Snackbar源码分析](https://github.com/yangchong211/YCBlogs/blob/master/android/Window/06.Snackbar%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
