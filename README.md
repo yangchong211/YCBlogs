@@ -129,7 +129,8 @@
     - Synchronize深入解析，sychonized method 和 synchonized代码块的效率问题
 - [05.Thread关闭方法](https://github.com/yangchong211/YCBlogs/blob/master/java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/05.Thread%E5%85%B3%E9%97%AD%E6%96%B9%E6%B3%95.md)
     - 使用interrupt()方法终止线程,使用stop方法终止线程区别和使用场景
-
+- [06.Synchronize和ReentrantLock区别](https://github.com/yangchong211/YCBlogs/blob/master/java/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B/05.Synchronize%E5%92%8CReentrantLock%E5%8C%BA%E5%88%AB.md)
+    - Synchronize和ReentrantLock区别，Synchronize在编译时如何实现锁机制，ReentrantLock锁机制测试案例分析，公平锁和非公平锁有何区别等等
 
 
 #### 06.网络编程
