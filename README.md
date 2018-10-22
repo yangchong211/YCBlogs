@@ -34,9 +34,12 @@
     - 22.源码分析
     - 23.架构技术
 - bug分析大汇总
-    - 01.bug总结一
-    - 02.bug总结二
-    - 03.bug总结三
+    - 01.崩溃bug日志总结1
+    - 02.崩溃bug日志总结2
+    - 03.崩溃bug日志总结3
+    - 04.崩溃bug日志总结4
+    - 05.崩溃bug日志总结5
+    - 06.崩溃bug日志总结6
 - 面试题整理
     - 01.Java问题大整理
     - 02.Android问题大整理
@@ -495,6 +498,41 @@
 
 
 ### bug分析大汇总
+- [00.常见的异常](https://github.com/yangchong211/YCBlogs/blob/master/bug/00.%E5%B8%B8%E8%A7%81%E7%9A%84%E5%BC%82%E5%B8%B8.md)
+    - 分别列举了实际开发中大部分的异常，主要包括1.异常Exception和2.异常Error
+    - 针对开发中异常问题，大概记录的是：该板块是持续更新！！
+    ```
+    - A.详细崩溃日志信息
+    - B.查看崩溃类信息
+    - C.项目中异常分析
+    - D.引发崩溃日志的流程分析
+    - F.解决办法
+    - G.其他延申
+    ```
+- [01.崩溃bug日志总结1](https://github.com/yangchong211/YCBlogs/blob/master/bug/01.%E5%B4%A9%E6%BA%83bug%E6%97%A5%E5%BF%97%E6%80%BB%E7%BB%931.md)
+    - 1.1 java.lang.UnsatisfiedLinkError找不到so库异常
+    - 1.2 java.lang.IllegalStateException非法状态异常
+    - 1.3 android.content.res.Resources$NotFoundException
+    - 1.4 java.lang.IllegalArgumentException参数不匹配异常
+    - 1.5 IllegalStateException：Can't compress a recycled bitmap
+    - 1.6 java.lang.NullPointerException空指针异常
+    - 1.7 android.view.WindowManager$BadTokenException异常
+    - 1.8 java.lang.ClassCastException类转化异常
+    - 1.9 1.9 Toast运行在子线程问题，handler问题
+- [02.崩溃bug日志总结2](https://github.com/yangchong211/YCBlogs/blob/master/bug/02.%E5%B4%A9%E6%BA%83bug%E6%97%A5%E5%BF%97%E6%80%BB%E7%BB%932.md)
+    - 1.1 java.lang.ClassNotFoundException类找不到异常
+    - 1.2 java.util.concurrent.TimeoutException连接超时崩溃
+    - 1.3 java.lang.NumberFormatException格式转化错误
+    - 1.4 java.lang.IllegalStateException: Fragment not attached to Activity
+    - 1.5 ArrayIndexOutOfBoundsException 角标越界异常
+    - 1.6 IllegalAccessException 方法中构造方法权限异常
+    - 1.7 android.view.WindowManager$BadTokenException，dialog弹窗异常
+    - 1.8 java.lang.NoClassDefFoundError 找不到类异常
+    - 1.9 Android出现：Your project path contains non-ASCII characters.
+- [03.崩溃bug日志总结3]()
+- [04.崩溃bug日志总结4]()
+- [05.崩溃bug日志总结5]()
+- [06.崩溃bug日志总结6]()
 
 
 ### 面试题整理
