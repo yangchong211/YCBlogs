@@ -320,8 +320,11 @@
 
 
 #### 04.动画机制
-- [动画机制总结](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%8A%A8%E7%94%BB%E6%9C%BA%E5%88%B6/%E5%8A%A8%E7%94%BB%E6%9C%BA%E5%88%B6%E6%80%BB%E7%BB%93.md)
+- [01.动画机制总结](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%8A%A8%E7%94%BB%E6%9C%BA%E5%88%B6/%E5%8A%A8%E7%94%BB%E6%9C%BA%E5%88%B6%E6%80%BB%E7%BB%93.md)
     - Android动画类型分类，实现方式，ValueAnimator与ObjectAnimator区别，以及补间动画原理，部分源码分析
+- [02.动画源码解析]()
+    - Animation和Animator区别，Animation运行原理和源码分析，如何计算动画数据，动画数据如何存储，Animation的调用；Animator运行原理和源码分析，属性动画新的概念，属性动画start执行流程，属性动画cancel和end执行流程，属性动画pause和resume执行流程，
+
 
 
 #### 05.View事件
