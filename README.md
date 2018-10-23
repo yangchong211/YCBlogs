@@ -518,7 +518,7 @@
     - 1.6 java.lang.NullPointerException空指针异常
     - 1.7 android.view.WindowManager$BadTokenException异常
     - 1.8 java.lang.ClassCastException类转化异常
-    - 1.9 1.9 Toast运行在子线程问题，handler问题
+    - 1.9 Toast运行在子线程问题，handler问题
 - [02.崩溃bug日志总结2](https://github.com/yangchong211/YCBlogs/blob/master/bug/02.%E5%B4%A9%E6%BA%83bug%E6%97%A5%E5%BF%97%E6%80%BB%E7%BB%932.md)
     - 1.1 java.lang.ClassNotFoundException类找不到异常
     - 1.2 java.util.concurrent.TimeoutException连接超时崩溃
@@ -529,7 +529,16 @@
     - 1.7 android.view.WindowManager$BadTokenException，dialog弹窗异常
     - 1.8 java.lang.NoClassDefFoundError 找不到类异常
     - 1.9 Android出现：Your project path contains non-ASCII characters.
-- [03.崩溃bug日志总结3]()
+- [03.崩溃bug日志总结3](https://github.com/yangchong211/YCBlogs/blob/master/bug/03.%E5%B4%A9%E6%BA%83bug%E6%97%A5%E5%BF%97%E6%80%BB%E7%BB%933.md)
+    - 1.1 OnErrorNotImplementedException【 Can't create handler inside thread that has not called Looper.prepare()】
+    - 1.2 adb.exe,start-server' failed -- run manually if necessary
+    - 1.3 java.lang.IllegalStateException: ExpectedBEGIN_OBJECT but was STRING at line 1 column 1 path $
+    - 1.4 android.content.ActivityNotFoundException: No Activity found to handle Intent
+    - 1.5 Package manager has died导致崩溃
+    - 1.6 IllegalArgumentException View添加窗口错误
+    - 1.7 IllegalStateException: Not allowed to start service Intent异常崩溃
+    - 1.8 java.lang.IllegalStateException：Can not perform this action after onSaveInstanceState
+    - 1.9 在Fragment中通过getActivity找不到上下文，报null导致空指针异常
 - [04.崩溃bug日志总结4]()
 - [05.崩溃bug日志总结5]()
 - [06.崩溃bug日志总结6]()
