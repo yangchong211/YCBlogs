@@ -542,7 +542,10 @@
 - [04.崩溃bug日志总结4]()
 - [05.崩溃bug日志总结5]()
 - [06.崩溃bug日志总结6]()
-
+- [07.崩溃bug日志总结7]()
+- [08.ANR深入介绍](https://github.com/yangchong211/YCBlogs/blob/master/bug/08.ANR%E6%B7%B1%E5%85%A5%E4%BB%8B%E7%BB%8D.md)
+    - ANR简单介绍，ANR的产生需要满足哪些条件，ANR发生场景有哪些，ANR发生的原理分析，ANR有哪些具体案例，看anr日志分析是cpu问题还是gc问题，一些防止anr的良心建议。问答题：ANR有异常日志吗？或者说ANR在第三方bugly崩溃日志中有日志吗？ 
+- [09.OOM异常介绍]()
 
 
 ### 面试题整理
