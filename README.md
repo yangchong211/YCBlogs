@@ -68,7 +68,7 @@
 ### Java博客大汇总
 #### 01.Java基础
 - [01.Java 关键字汇总](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/01.Java%20%E5%85%B3%E9%94%AE%E5%AD%97%E6%B1%87%E6%80%BB.md)
-    - 常见的关键字，重要关键字说明，持续汇总中
+    - 常见的关键字，重要关键字说明，持续汇总中。
 - [02.Java基础知识](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/02.Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
     - 知识点：基础知识点总结，标识符规则，进制，字符编码，运算符，方法，内存分配以及栈和堆
 - [03.泛型](https://github.com/yangchong211/YCBlogs/blob/master/java/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/03.%E6%B3%9B%E5%9E%8B.md)
@@ -100,11 +100,11 @@
 
 #### 03.数据结构
 - [01.常见的数据结构](https://github.com/yangchong211/YCBlogs/blob/master/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/01.%E5%B8%B8%E8%A7%81%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
-    - 常见的数据类型，数组，集合，栈，堆，链表，图，队列，树
+    - 常见的数据类型，数组，集合，栈，堆，链表，图，队列，树。主要是罗列开发中比较常见的数据类型……
 - [02.Java常用数据结构深度解析](https://github.com/yangchong211/YCBlogs/blob/master/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/02.Java%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
     - 集合概括与总结，集合的遍历，迭代器的原理，List集合如何选择合适的
 - [03.List集合深度解析](https://github.com/yangchong211/YCBlogs/blob/master/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/03.List%E9%9B%86%E5%90%88%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
-    - ArrayList,Vector,LinkedList等集合的特点与区别
+    - ArrayList,Vector,LinkedList等集合的特点与区别。ArrayList的扩容消耗，List怎么实现排序？System.arraycopy()和Arrays.copyOf()方法区别与联系，list集合读写机制和读写效率，ArrayList核心源代码分析等等
 - [04.Set集合深度解析](https://github.com/yangchong211/YCBlogs/blob/master/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/04.Set%E9%9B%86%E5%90%88%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
     - HashSet,LinkedHashSet,TreeSet等集合特点和区别
 - [05.Map集合深度解析](https://github.com/yangchong211/YCBlogs/blob/master/java/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/05.Map%E9%9B%86%E5%90%88%E5%9F%BA%E7%A1%80%E4%BB%8B%E7%BB%8D.md)
