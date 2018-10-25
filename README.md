@@ -488,11 +488,12 @@
     - 遇到问题及解决方案，什么是ADB？adb 服务程序模块，ADB常用的命令
 - [04.RecyclerView源码分析](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/04.RecyclerView%E7%94%A8%E6%B3%95%E5%92%8C%E6%BA%90%E7%A0%81%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
     - RecycleView的结构，RecyclerView.Adapter扮演的角色与代码分析，notifyDataSetChanged()刷新数据之观察者模式，ViewHolder的作用，复用原理，以及简单封装，setLayoutManager(LayoutManager layout)源码，addItemDecoration()源码分析 ，ItemAnimator动画，Recycler && RecycledViewPool概念，RecyclerView嵌套方案滑动冲突解决方案 ，RecyclerView复杂布局封装库案例
-- [05.EventBus用法及源码解析]()
 - [06.DownloadManager源码分析]()
 - [07.Retrofit源码分析]()
 - [08.ButterKnife源码分析]()
 - [09.glide源码分析]()
+- [10.EventBus用法及源码解析](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/10.EventBus%E7%94%A8%E6%B3%95%E5%8F%8A%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
+    - EventBus的四种ThreadMode（线程模型），register(this)注册源码解析，订阅者的注册过程，EventBus事件分发解析，EventBus取消注册解析，总结一下EventBus的工作原理。
 
 
 #### 23.架构技术
