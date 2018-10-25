@@ -337,9 +337,12 @@
 
 
 #### 06.消息机制
+- [00.Android异步消息机制](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%B6%88%E6%81%AF%E6%9C%BA%E5%88%B6/00.Android%E5%BC%82%E6%AD%A5%E6%B6%88%E6%81%AF%E6%9C%BA%E5%88%B6.md)
+    - 如何在子线程中定义Handler，主线程如何自动调用Looper.prepare()，Looper.prepare()方法源码分析，Looper中用什么存储消息，Looper.loop()方法源码分析，runOnUiThread如何实现子线程更新UI等等
 - [01.Handler消息机制](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%B6%88%E6%81%AF%E6%9C%BA%E5%88%B6/01.Handler%E6%B6%88%E6%81%AF%E6%9C%BA%E5%88%B6.md)
     - 为什么不允许在子线程中访问UI，Handler消息机制作用，避免子线程手动创建looper，ActivityThread源码分析，ActivityThread源码分析，Looper死循环为什么不会导致应用卡死，会消耗大量资源吗？
-
+- [02.Looper深度解析]()
+- [03.ThreadLocal深入分析]()
 
 
 #### 07.多媒体
