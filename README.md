@@ -306,12 +306,19 @@
 
 
 #### 02.基础组件
+- 这个部分比较简单，是16年初刚学习的时候记录的笔记。可以直接跳过
 - [09.Selector选择器总结](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/09.Selector%E9%80%89%E6%8B%A9%E5%99%A8%E6%80%BB%E7%BB%93.md)
+    - selector创建方式，状态设置说明，义的xml文件可以作为两种资源使用：drawable和color。TextView如何设置背景和字体选择器？
 - [10.Shape自定义图形汇总](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/10.Shape%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9B%BE%E5%BD%A2%E6%B1%87%E6%80%BB.md)
+    - shape可以自定义四种类型的形状，常用方法介绍
 - [11.Style样式汇总](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/11.Style%E6%A0%B7%E5%BC%8F%E6%B1%87%E6%80%BB.md)
+    - 样式的定义，样式的用法不只是用于单个View，也能用于Activity或整个Application，如何简化样式从而分类拆分成多个文件
 - [12.主题Theme的使用总结](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/12.%E4%B8%BB%E9%A2%98Theme%E7%9A%84%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.md)
+    - style设置
 - [13.attr属性介绍](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/13.attr%E5%B1%9E%E6%80%A7%E4%BB%8B%E7%BB%8D.md)
-
+    - attr属性的定义/读取/出错/使用，自定义attr属性与读取，如果在attr中不同View引用相同属性名字时出现错误的解决方法
+- [16.CompileSdkVersion和MinSdkVersion](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/16.CompileSdkVersion%E5%92%8CMinSdkVersion.md)
+    - CompileSdkVersion的作用，MinSdkVersion的作用，TargetSdkVersion的作用
 
 
 #### 03.View事件
@@ -549,7 +556,8 @@
 - [07.崩溃bug日志总结7]()
 - [08.ANR深入介绍](https://github.com/yangchong211/YCBlogs/blob/master/bug/08.ANR%E6%B7%B1%E5%85%A5%E4%BB%8B%E7%BB%8D.md)
     - ANR简单介绍，ANR的产生需要满足哪些条件，ANR发生场景有哪些，ANR发生的原理分析，ANR有哪些具体案例，看anr日志分析是cpu问题还是gc问题，一些防止anr的良心建议。问答题：ANR有异常日志吗？或者说ANR在第三方bugly崩溃日志中有日志吗？ 
-- [09.OOM异常介绍]()
+- [09.OOM异常介绍](https://github.com/yangchong211/YCBlogs/blob/master/bug/09.OOM%E5%BC%82%E5%B8%B8%E4%BB%8B%E7%BB%8D.md)
+    - 常见OOM分析思路介绍，常见发生的场景 ，常见的解决办法 ，减小对象的内存占用，内存对象的重复使用，避免内存泄漏，内存优化策略
 
 
 ### 面试题整理
