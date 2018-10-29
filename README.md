@@ -319,6 +319,8 @@
     - attr属性的定义/读取/出错/使用，自定义attr属性与读取，如果在attr中不同View引用相同属性名字时出现错误的解决方法
 - [16.CompileSdkVersion和MinSdkVersion](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/16.CompileSdkVersion%E5%92%8CMinSdkVersion.md)
     - CompileSdkVersion的作用，MinSdkVersion的作用，TargetSdkVersion的作用
+- [17.Log深入解析]()
+    - 关于Log源码介绍，Log日志的种类，底层都是调用了println方法是如何实现日志打印的
 
 
 #### 03.View事件
