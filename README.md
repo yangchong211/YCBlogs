@@ -43,6 +43,18 @@
 - 面试题整理
     - 01.Java问题大整理
     - 02.Android问题大整理
+- 算法
+    - 01.递归和回溯
+    - 02.栈
+    - 03.链表
+    - 04.队列
+    - 05.树
+    - 06.排序
+    - 07.查找
+    - 08.选择
+    - 09.散列
+    - 10.字符串
+    - 11.数组
 - Python学习笔记
 - Go学习笔记
 - 生活博客汇总
@@ -567,6 +579,37 @@
 - [00.面试问题大汇总](https://github.com/yangchong211/YCBlogs/blob/master/android/00.%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98%E5%A4%A7%E6%B1%87%E6%80%BB.md)
     - 汇总齐全的各种问题，虽然网上有很多这类型的博客，但是个人觉得，在实际面试过程中，面试官一般都比较喜欢追问……
     - 许多的问题，在回答过程中，面试官也会根据面试者的回答，再进行提问。所以如果只是单纯的去刷题，而不是很深入理解问题的原理，最终也会面试不顺利。
+
+
+### 算法
+#### 01.递归和回溯
+#### 02.栈
+#### 03.链表
+#### 04.队列
+#### 05.树
+#### 06.排序
+- [01.冒泡排序](https://github.com/yangchong211/YCBlogs/blob/master/leetcode/06.%E6%8E%92%E5%BA%8F/01.%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.md)
+    - 冒泡排序基本思想，排序过程，简单优化思路
+- [02.插入排序](https://github.com/yangchong211/YCBlogs/blob/master/leetcode/06.%E6%8E%92%E5%BA%8F/02.%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.md)
+    - 插入排序基本思想，排序过程，以及代码展示
+- [03.选择排序](https://github.com/yangchong211/YCBlogs/blob/master/leetcode/06.%E6%8E%92%E5%BA%8F/03.%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F.md)
+    - 选择排序基本思想，排序过程，以及代码展示，树形选择排序
+- [04.快速排序](https://github.com/yangchong211/YCBlogs/blob/master/leetcode/06.%E6%8E%92%E5%BA%8F/04.%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.md)
+    - 快速排序基本思想，排序过程，以及代码展示。
+- [05.希尔排序](https://github.com/yangchong211/YCBlogs/blob/master/leetcode/06.%E6%8E%92%E5%BA%8F/05.%E5%B8%8C%E5%B0%94%E6%8E%92%E5%BA%8F.md)
+    - 希尔排序基本思想，排序过程，以及代码展示
+- [06.归并排序](https://github.com/yangchong211/YCBlogs/blob/master/leetcode/06.%E6%8E%92%E5%BA%8F/06.%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F.md)
+    - 归并排序基本思想，排序过程，以及代码展示
+
+
+#### 07.查找
+- [01.二分查找](https://github.com/yangchong211/YCBlogs/blob/master/leetcode/07.%E6%9F%A5%E6%89%BE/01.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
+    - 无需数组是否能用二分查找？二分查找基本思想，查找过程，以及代码展示
+
+#### 08.选择
+#### 09.散列
+#### 10.字符串
+#### 11.数组
 
 
 ### 生活博客汇总
