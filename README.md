@@ -319,7 +319,7 @@
     - attr属性的定义/读取/出错/使用，自定义attr属性与读取，如果在attr中不同View引用相同属性名字时出现错误的解决方法
 - [16.CompileSdkVersion和MinSdkVersion](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/16.CompileSdkVersion%E5%92%8CMinSdkVersion.md)
     - CompileSdkVersion的作用，MinSdkVersion的作用，TargetSdkVersion的作用
-- [17.Log深入解析]()
+- [17.Log深入解析](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/17.Log%E6%B7%B1%E5%85%A5%E8%A7%A3%E6%9E%90.md)
     - 关于Log源码介绍，Log日志的种类，底层都是调用了println方法是如何实现日志打印的
 
 
@@ -497,8 +497,9 @@
     - 遇到问题及解决方案，什么是ADB？adb 服务程序模块，ADB常用的命令
 - [04.RecyclerView源码分析](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/04.RecyclerView%E7%94%A8%E6%B3%95%E5%92%8C%E6%BA%90%E7%A0%81%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
     - RecycleView的结构，RecyclerView.Adapter扮演的角色与代码分析，notifyDataSetChanged()刷新数据之观察者模式，ViewHolder的作用，复用原理，以及简单封装，setLayoutManager(LayoutManager layout)源码，addItemDecoration()源码分析 ，ItemAnimator动画，Recycler && RecycledViewPool概念，RecyclerView嵌套方案滑动冲突解决方案 ，RecyclerView复杂布局封装库案例
-- [06.DownloadManager源码分析]()
-- [07.Retrofit源码分析]()
+- [05.DownloadManager源码分析]()
+- [06.Retrofit源码分析](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/06.Retrofit%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
+    - Retrofit创建中用了哪些设计模式，为什么设置baseUrl的时候，会以/结尾，如果没有/会出现什么问题？如何理解动态代理的机制。retrofit是如何加载接口类ApiService的，为什么这个类要设置成接口？call调用enqueue异步方法中源码是如何实现异步切换线程的？原理是怎样的？网络传输都是二进制流，那么解析数据时，如何通过ServiceMethod使用Converter转换成Java对象进行数据解析？
 - [08.ButterKnife源码分析]()
 - [09.glide源码分析]()
 - [10.EventBus用法及源码解析](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/10.EventBus%E7%94%A8%E6%B3%95%E5%8F%8A%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
