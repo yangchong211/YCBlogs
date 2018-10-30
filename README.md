@@ -383,6 +383,7 @@
 - [02.线程池封装库](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%A4%9A%E7%BA%BF%E7%A8%8B/02.%E7%BA%BF%E7%A8%8B%E6%B1%A0%E5%B0%81%E8%A3%85%E5%BA%93.md)
     - 轻量级线程池封装库，支持线程执行过程中状态回调监测(包含成功，失败，异常等多种状态)；支持创建异步任务，并且可以设置线程的名称，延迟执行时间，线程优先级，回调callback等；可以根据自己需要创建自己需要的线程池，一共有四种；线程异常时，可以打印异常日志，避免崩溃。
 - [03.AsyncTask异步任务类](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%A4%9A%E7%BA%BF%E7%A8%8B/03.AsyncTask%E5%BC%82%E6%AD%A5%E4%BB%BB%E5%8A%A1%E7%B1%BB.md)
+    - AsyncTask是如何实现异步机制的，底层原理是什么？AsyncTask调用execute方法时，如果不是运行在主线程中会出现什么情况，如何解决？为什么异步任务对象不能执行多次，即不能创建一个对象执行多次execute方法？AsyncTask的执行策略是并行还是串行的？AsyncTask对应线程池是如何操作的？它有什么弊端？
 - [04.IntentService源码分析](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%A4%9A%E7%BA%BF%E7%A8%8B/04.IntentService%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
     - IntentService的作用，使用场景，源码分析，整体源码展示及归纳，如何单独开启1个新的工作线程，IntentService如何将Intent传递给服务并且依次插入到工作队列中，IntentService与其他线程对比，HandlerThread深入分析
 
