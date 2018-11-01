@@ -163,7 +163,9 @@
 
 
 #### 07.类的加载
-
+- [01.Java类加载器]()
+- [02.类的加载机制](https://github.com/yangchong211/YCBlogs/blob/master/java/%E7%B1%BB%E7%9A%84%E5%8A%A0%E8%BD%BD/02.%E7%B1%BB%E7%9A%84%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6.md)
+    - Java对象的创建过程 ，Java内存区域 ，Java对象的访问定位方式 ，Java对象销毁分析 ，类的加载过程。类信息，常量，变量，方法分别放到内存中哪里？本地方法栈和Java虚拟机栈有什么区别？本地方法栈在什么情况下会造成OOM？Java对象访问定位方式有哪些？主要有什么区别？为什么说使用指针效率更高？
 
 
 #### 08.反射原理
@@ -1554,7 +1556,25 @@
 
 
 
-### 关于其他内容介绍
+#### 关于其他内容介绍
+- ![image](https://upload-images.jianshu.io/upload_images/4432347-7100c8e5a455c3ee.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#### 于LICENSE
+```
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
+
 #### 01.关于博客汇总链接
 - 1.[技术博客汇总](https://www.jianshu.com/p/614cb839182c)
 - 2.[开源项目汇总](https://blog.csdn.net/m0_37700275/article/details/80863574)
