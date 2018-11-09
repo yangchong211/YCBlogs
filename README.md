@@ -322,8 +322,8 @@
 
 #### 02.基础组件
 - 这个部分比较简单，是16年初刚学习的时候记录的笔记。可以直接跳过
-- []()
-    - 
+- [02.Service深入解读](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/02.Service%E6%B7%B1%E5%85%A5%E8%A7%A3%E8%AF%BB.md)
+    - Service启动方式 ，startService源码分析 ，ActivityThread启动 ，bindService源码分析 ，Service中如何开启Activity，直接在Activity中创建一个thread跟在service中创建一个thread之间恩区别？ 
 - [09.Selector选择器总结](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/09.Selector%E9%80%89%E6%8B%A9%E5%99%A8%E6%80%BB%E7%BB%93.md)
     - selector创建方式，状态设置说明，义的xml文件可以作为两种资源使用：drawable和color。TextView如何设置背景和字体选择器？
 - [10.Shape自定义图形汇总](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/10.Shape%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9B%BE%E5%BD%A2%E6%B1%87%E6%80%BB.md)
@@ -524,6 +524,10 @@
     - EventBus的四种ThreadMode（线程模型），register(this)注册源码解析，订阅者的注册过程，EventBus事件分发解析，EventBus取消注册解析，总结一下EventBus的工作原理。
 - [11.App启动流程](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/11.App%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B.md)
     - 什么是Zygote进程，Zygote进程的启动流程 ，SystemServer进程启动流程 ，启动服务流程源码分析，
+- [12.SnapHelper源码深度解析](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/12.SnapHelper%E6%BA%90%E7%A0%81%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
+    - SnapHelper作用，SnapHelper源码分析 ，attachToRecyclerView入口方法，SnapHelper的抽象方法，自定义SnapHelper类 
+
+
 
 #### 23.架构技术
 - [01.Android技术架构](https://github.com/yangchong211/YCBlogs/blob/master/android/%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84/01.Android%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84.md)
