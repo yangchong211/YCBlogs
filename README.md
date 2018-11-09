@@ -322,6 +322,8 @@
 
 #### 02.基础组件
 - 这个部分比较简单，是16年初刚学习的时候记录的笔记。可以直接跳过
+- []()
+    - 
 - [09.Selector选择器总结](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/09.Selector%E9%80%89%E6%8B%A9%E5%99%A8%E6%80%BB%E7%BB%93.md)
     - selector创建方式，状态设置说明，义的xml文件可以作为两种资源使用：drawable和color。TextView如何设置背景和字体选择器？
 - [10.Shape自定义图形汇总](https://github.com/yangchong211/YCBlogs/blob/master/android/%E5%9F%BA%E7%A1%80%E7%BB%84%E4%BB%B6/10.Shape%E8%87%AA%E5%AE%9A%E4%B9%89%E5%9B%BE%E5%BD%A2%E6%B1%87%E6%80%BB.md)
