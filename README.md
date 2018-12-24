@@ -199,6 +199,7 @@
 
 
 ### [12.Flutter博客汇总]()
+- 这段时间在学习flutter，并且业余时间完成了flutter版本的wanAndroid客户端，感兴趣朋友可以看：[flutter版本的wanAndroid客户端](https://github.com/yangchong211/ycflutter)
 - 待更新中，预计1个月内完成，
 
 
@@ -236,6 +237,7 @@
 - 邮箱：yangchong211@163.com
 - 阿里云博客：https://yq.aliyun.com/users/article?spm=5176.100- 239.headeruserinfo.3.dT4bcV
 - segmentfault头条：https://segmentfault.com/u/xiangjianyu/articles
+- 掘金：https://juejin.im/user/5939433efe88c2006afa0c6e
 
 
 
