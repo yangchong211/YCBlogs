@@ -61,7 +61,7 @@
 - 12.网络相关(7篇)
 - 13.注解(1篇)
 - 14.音视频(13篇)
-- 15.优化相关(8篇)
+- 15.优化相关(10篇)
 - 16.设计模式(4篇)
 - 20.零碎笔记(12篇)
 - 21.kotlin学习(1篇)
@@ -99,6 +99,15 @@
 
 ### [05.技术问题整理](https://github.com/yangchong211/YCBlogs/blob/master/blog/05.%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB.md)
 - 01.Java问题大整理
+    - [01.Java基础问题(19个)](https://blog.csdn.net/m0_37700275/article/details/85235056)
+    - [02.Java面向对象问题(10个)](https://juejin.im/post/5c209ae46fb9a049e12a382a)
+    - [03.Java数据结构问题(20个)](https://juejin.im/post/5c20bbb7e51d4549ef17baac)
+    - [04.JavaIO流问题(6个)](https://www.jianshu.com/p/296a17157a53)
+    - [05.java多线程问题(19)](https://juejin.im/post/5c20c27551882504bd0e6f6d)
+    - [06.Java虚拟机问题(10个)](https://www.jianshu.com/p/b8b01ae0cc5f)
+    - [07.Java类加载问题(8个)](https://juejin.im/post/5c2357736fb9a049ab0da953)
+    - [08.Java反射问题(6个)](https://blog.csdn.net/m0_37700275/article/details/85266860)
+    - [10.Java异常问题(9个)](https://www.jianshu.com/p/50b81e8103ea)
 - 02.Android问题大整理
 - 03.精品问题技术
 - 04.Python问题整理
