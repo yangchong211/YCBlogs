@@ -51,7 +51,7 @@
 ### [02.Android博客大汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/02.Android%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)
 - 01.基础组件(9篇)
 - 02.IPC机制(0篇)
-- 03.View事件(5篇)
+- 03.View原理(5篇)
 - 04.动画机制(2篇)
 - 05.View事件(9篇)
 - 06.消息机制(6篇)
