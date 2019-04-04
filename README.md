@@ -56,7 +56,7 @@
 - 05.View事件(9篇)
 - 06.消息机制(6篇)
 - 07.多媒体(3篇)
-- 08.View事件(2篇)
+- 08.View事件(4篇)
 - 09.多线程(4篇)
 - 10.Window(9篇)
 - 11.WebView(4篇)
@@ -193,6 +193,9 @@
 - [48.关于看客的热闹](https://zhuanlan.zhihu.com/p/46138200)
 - [49.关于如何看待仪式感](https://zhuanlan.zhihu.com/p/47297212)
 - [50.关于如何看待巨婴心理](https://zhuanlan.zhihu.com/p/47883816)
+- [51.关于网络孝子](https://zhuanlan.zhihu.com/p/60113403)
+- [52.关于技术路线杂谈](https://zhuanlan.zhihu.com/p/60119398)
+- [53.关于如何看待三观](https://zhuanlan.zhihu.com/p/60224540)
 - **关于生活博客更多内容，可以直接看：[生活博客汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/09.%E7%94%9F%E6%B4%BB%E5%8D%9A%E5%AE%A2%E6%B1%87%E6%80%BB.md)**
 
 
