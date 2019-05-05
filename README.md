@@ -205,19 +205,22 @@
 
 
 
-### [11.知识问答汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/11.%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94%E6%B1%87%E6%80%BB.md)
-- 0.1 工作心得[23篇]
+### [11.知识问答汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/11.%E7%9F%A5%E8%AF%86%E7%AC%94%E8%AE%B0%E6%B1%87%E6%80%BB.md)
+- 0.1 工作心得[31篇]
 - 0.2 古典诗词[10篇]
-- 0.3 历史问题[76篇]
-- 0.4 名著解读[51篇]
-- 0.5 生活问题[44篇]
+- 0.3 历史问题[127篇]
+- 0.4 名著解读[74篇]
+- 0.5 生活问题[48篇]
 - 0.6 网络新闻[9篇]
 - 0.7 小说电影思考[76篇]
 - 0.8 学习疑问[45篇]
 - 0.9 职场问题[23篇]
-- 1.0 人性问题
-- 1.1 武侠问题[47篇]
-- 更多内容可以看：[知识问答汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/11.%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94%E6%B1%87%E6%80%BB.md)
+- 1.0 人性问题[13篇]
+- 1.1 武侠问题[86篇]
+- 1.2 艰苦奋斗[16篇]
+- 1.4 社会问题[19篇]
+- 1.5 技术博客[216篇]
+- 更多内容可以看：[知识问答汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/11.%E7%9F%A5%E8%AF%86%E7%AC%94%E8%AE%B0%E6%B1%87%E6%80%BB.md)
 
 
 
