@@ -31,8 +31,8 @@
 
 
 ### [01.Java博客大汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/01.Java%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)
-- 01.Java基础[13篇]
-- 02.面向对象[9篇]
+- 01.Java基础[30篇]
+- 02.面向对象[15篇]
 - 03.数据结构[9篇]
 - 04.IO流知识[3篇]
 - 05.Java多线程[17篇]
