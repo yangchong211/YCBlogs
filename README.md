@@ -51,7 +51,7 @@
 ### [02.Android博客大汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/02.Android%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)
 - 01.基础组件(9篇)
 - 02.IPC机制(0篇)
-- 03.View原理(5篇)
+- 03.View原理(7篇)
 - 04.动画机制(2篇)
 - 05.View事件(9篇)
 - 06.消息机制(6篇)
@@ -66,7 +66,7 @@
 - 15.优化相关(8篇)
 - 16.设计模式(4篇)
 - 20.零碎笔记(12篇)
-- 21.kotlin学习(1篇)
+- 21.kotlin学习(13篇)
 - 22.源码分析(11篇)
 - 23.架构技术(13篇)
 - 25.RecyclerView(25篇)
@@ -75,23 +75,26 @@
 
 
 ### [03.开源项目推荐](https://github.com/yangchong211/YCBlogs/blob/master/blog/03.%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90.md)
-- **[0.flutter版本wanAndroid客户端](https://github.com/yangchong211/ycflutter)**
-- [1.开源博客汇总，汇总了几乎所有的博客，长期更新，持续维护，不断提高质量](https://github.com/yangchong211/YCBlogs)
-- [2.开源综合案例，16年写的小案例，包含新闻，todo，记事本，知乎新闻，干货集中营等等](https://github.com/yangchong211/LifeHelper)
-- [3.视频播放器封装库，支持常用功能，基于ijkPlayer，封装架构清晰，注释详细，十分方便上手](https://github.com/yangchong211/YCVideoPlayer)
-- [4.状态切换管理器封装库，状态切换，让View状态的切换和Activity彻底分离开，入侵性很低，耦合度低](https://github.com/yangchong211/YCStateLayout)
-- [5.复杂类型type封装库，自定义支持上拉加载更多，下拉刷新，支持自由切换状态，支持复杂页面](https://github.com/yangchong211/YCRefreshView)
-- [6.弹窗封装库，包括Toast，SnackBar，Dialog，DialogFragment，PopupWindow](https://github.com/yangchong211/YCDialog)
-- [7.版本更新封装库，轻量级版本更新弹窗，弹窗上支持更新进度条，可以设置普通更新或者强制更新。](https://github.com/yangchong211/YCUpdateApp)
-- [8.状态栏封装库，一行代码设置状态栏，适合于绝大多数的使用场景](https://github.com/yangchong211/YCStatusBar)
-- [9.开源轻量级线程池封装库，轻量级线程池封装库，支持线程执行过程中状态回调监测；支持创建异步任务](https://github.com/yangchong211/YCThreadPool)
-- [10.开源轮播图封装库，ViewPager轮播图，RecyclerView轮播图](https://github.com/yangchong211/YCBanner)
-- [11.开源音频播放器，17年上半年学习音频所写的案例](https://github.com/yangchong211/YCAudioPlayer)
-- [12.开源画廊与图片缩放控件，支持ViewPager滑动的画廊控件，使用RecyclerView实现画廊浏览](https://github.com/yangchong211/YCGallery)
-- [13.Python多渠道打包，Android程序员掌握python自动化打包更加高效，非常方便](https://github.com/yangchong211/YCWalleHelper)
-- [14.list页面item整体侧滑动画封装库](https://github.com/yangchong211/YCSlideView)
-- [15.Python爬虫妹子图，尽是干货，学习python爬虫案例](https://github.com/yangchong211/YCMeiZiTu)
-- [17.自定义百分比进度条，支持圆环，直线等百分比进度条](https://github.com/yangchong211/YCProgress)
+- [1.开源博客汇总](https://github.com/yangchong211/YCBlogs)
+- [2.组件化实践项目](https://github.com/yangchong211/LifeHelper)
+- [3.视频播放器封装库](https://github.com/yangchong211/YCVideoPlayer)
+- [4.状态切换管理器封装库](https://github.com/yangchong211/YCStateLayout)
+- [5.复杂RecyclerView封装库](https://github.com/yangchong211/YCRefreshView)
+- [6.弹窗封装库](https://github.com/yangchong211/YCDialog)
+- [7.版本更新封装库](https://github.com/yangchong211/YCUpdateApp)
+- [8.状态栏封装库](https://github.com/yangchong211/YCStatusBar)
+- [9.轻量级线程池封装库](https://github.com/yangchong211/YCThreadPool)
+- [10.轮播图封装库](https://github.com/yangchong211/YCBanner)
+- [11.音频播放器](https://github.com/yangchong211/YCAudioPlayer)
+- [12.画廊与图片缩放控件](https://github.com/yangchong211/YCGallery)
+- [13.Python多渠道打包](https://github.com/yangchong211/YCWalleHelper)
+- [14.整体侧滑动画封装库](https://github.com/yangchong211/YCSlideView)
+- [15.Python爬虫妹子图](https://github.com/yangchong211/YCMeiZiTu)
+- [17.自定义进度条](https://github.com/yangchong211/YCProgress)
+- [18.自定义折叠和展开布局](https://github.com/yangchong211/YCExpandView)
+- [19.商品详情页分页加载](https://github.com/yangchong211/YCShopDetailLayout)
+- [20.可以设置在View控件上红点数字控件](https://github.com/yangchong211/YCRedDotView)
+
 
 
 
@@ -119,9 +122,10 @@
     - [06.Android之消息机制问题(12个)](https://juejin.im/post/5c382534e51d4552701540cc)
     - [07.Android之多媒体问题(4个)](https://juejin.im/post/5c65284b6fb9a049fe35a8c1)
     - [08.Android之View事件问题(14个)](https://juejin.im/post/5c6529616fb9a049aa6f9833)
+    - [10.Android之Window问题(23个)](https://juejin.im/post/5cd28407518825358e2e271c)
     - [13.Android之注解问题(10个)](https://juejin.im/post/5c665c5ae51d450e675331c0)
     - [25.Android之RecyclerView问题(26个)](https://juejin.im/post/5cce410551882541e40e471d)
-- - 03.精品问题技术
+- 03.精品问题技术
 - 04.Python问题整理
 - **阅读更多请点击：[技术问题整理](https://github.com/yangchong211/YCBlogs/blob/master/blog/05.%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB.md)**
 
@@ -230,8 +234,18 @@
 - 待更新中，预计1个月内完成，
 
 
-### [13.网络协议汇总]()
-- 待更新中，
+
+### [13.网络协议汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/13.%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E6%B1%87%E6%80%BB.md)
+- 01.计算机基础[3篇]
+- 02.网络基础[13篇]
+- 03.TCP和UDP[11篇]
+- 04.Http协议[12篇]
+- 05.Http信息[4篇]
+- 06.Https详解[5篇]
+- 07.其他协议
+- 08.Web攻击
+- 更多内容可以看：[网络协议汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/13.%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE%E6%B1%87%E6%80%BB.md)
+
 
 
 ### 14.关于其他介绍
@@ -253,7 +267,6 @@
 
 
 #### 02.关于我的博客
-- 我的个人站点：www.yczbj.org，www.ycbjie.cn
 - github：https://github.com/yangchong211
 - 知乎：https://www.zhihu.com/people/yczbj/activities
 - 简书：http://www.jianshu.com/u/b7b2c6ed9284
@@ -262,9 +275,9 @@
 - 开源中国：https://my.oschina.net/zbj1618/blog
 - 泡在网上的日子：http://www.jcodecraeer.com/member/content_list.php?channelid=1
 - 邮箱：yangchong211@163.com
-- 阿里云博客：https://yq.aliyun.com/users/article?spm=5176.100- 239.headeruserinfo.3.dT4bcV
 - segmentfault头条：https://segmentfault.com/u/xiangjianyu/articles
 - 掘金：https://juejin.im/user/5939433efe88c2006afa0c6e
+- 博客园：https://www.cnblogs.com/yc211
 
 
 
@@ -273,18 +286,4 @@
 - 如果喜欢或者有所启发，欢迎star，对作者也是一种鼓励。除了部分已经投递过公众号外的文章，转载麻烦注明出处。
 
 
-#### 关于LICENSE
-```
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
 
