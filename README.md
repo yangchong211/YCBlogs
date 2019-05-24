@@ -35,15 +35,15 @@
 - 02.面向对象[15篇]
 - 03.数据结构[9篇]
 - 04.IO流知识[11篇]
-- 05.Java多线程[17篇]
+- 05.线程进程[9篇]
 - 06.虚拟机[5篇]
 - 07.类的加载[7篇]
 - 08.反射原理[12篇]
-- 09.性能优化[4篇]
+- 09.Java并发[17篇]
 - 10.Java异常[11篇]
-- 11.枚举与注解[1篇]
+- 11.枚举与注解[5篇]
 - 12.设计模式[8篇]
-- 13.Java深入[2篇]
+- 13.Java深入[7篇]
 - **阅读更多请点击：[Java博客汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/01.Java%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)**
 
 
@@ -54,7 +54,7 @@
 - 03.View原理(7篇)
 - 04.动画机制(2篇)
 - 05.View事件(9篇)
-- 06.消息机制(6篇)
+- 06.消息机制(12篇)
 - 07.多媒体(9篇)
 - 08.View事件(4篇)
 - 09.多线程(4篇)
@@ -66,7 +66,7 @@
 - 15.优化相关(8篇)
 - 16.设计模式(4篇)
 - 20.零碎笔记(12篇)
-- 21.kotlin学习(13篇)
+- 21.kotlin学习(11篇)
 - 22.源码分析(11篇)
 - 23.架构技术(13篇)
 - 25.RecyclerView(25篇)
@@ -93,7 +93,7 @@
 - [17.自定义进度条](https://github.com/yangchong211/YCProgress)
 - [18.自定义折叠和展开布局](https://github.com/yangchong211/YCExpandView)
 - [19.商品详情页分页加载](https://github.com/yangchong211/YCShopDetailLayout)
-- [20.可以设置在View控件上红点数字控件](https://github.com/yangchong211/YCRedDotView)
+- [20.在任意View控件上设置红点控件](https://github.com/yangchong211/YCRedDotView)
 
 
 
