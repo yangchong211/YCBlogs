@@ -211,7 +211,7 @@
 
 
 
-### [11.知识问答汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/11.%E7%9F%A5%E8%AF%86%E7%AC%94%E8%AE%B0%E6%B1%87%E6%80%BB.md)
+### [11.生活日记心得](https://github.com/yangchong211/YCBlogs/blob/master/blog/11.%E7%9F%A5%E8%AF%86%E7%AC%94%E8%AE%B0%E6%B1%87%E6%80%BB.md)
 - 0.1 工作心得[31篇]
 - 0.2 古典诗词[10篇]
 - 0.3 历史问题[127篇]
