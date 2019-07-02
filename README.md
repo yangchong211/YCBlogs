@@ -7,13 +7,15 @@
 - 05.技术问题整理
 - 06.数据与算法
 - 07.Python学习笔记
-- 08.Go学习笔记
+- 08.Kotlin学习笔记
 - 09.生活博客汇总
 - 10.喜马拉雅汇总
 - 11.知识问答汇总
 - 12.Flutter博客汇总
 - 13.网络协议汇总
-- 14.关于其他介绍
+- 14.Go学习笔记
+- 15.关于其他介绍
+
 
 
 
@@ -38,6 +40,7 @@
 
 
 
+
 ### 好消息
 - 博客笔记大汇总【16年3月到至今】，包括Java基础及深入知识点，Android技术博客，Python学习笔记等等，还包括平时开发中遇到的bug汇总，当然也在工作之余收集了大量的面试题，长期更新维护并且修正，持续完善……开源的文件是markdown格式的！同时也开源了生活博客，从12年起，积累共计N篇[近100万字，陆续搬到网上]，转载请注明出处，谢谢！
 - **链接地址：https://github.com/yangchong211/YCBlogs**
@@ -51,46 +54,48 @@
 
 
 
+
 ### [01.Java博客大汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/01.Java%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)
 - 01.Java基础[30篇]
 - 02.面向对象[15篇]
 - 03.数据结构[27篇]
 - 04.IO流知识[11篇]
 - 05.线程进程[9篇]
-- 06.虚拟机[5篇]
+- 06.虚拟机[12篇]
 - 07.类的加载[7篇]
-- 08.反射原理[12篇]
-- 09.Java并发[17篇]
+- 08.反射原理[16篇]
+- 09.Java并发[27篇]
 - 10.Java异常[11篇]
-- 11.枚举与注解[5篇]
+- 11.枚举与注解[10篇]
 - 12.设计模式[8篇]
-- 13.Java深入[7篇]
+- 13.Java深入[8篇]
 - **阅读更多请点击：[Java博客汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/01.Java%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)**
 
 
 
 ### [02.Android博客大汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/02.Android%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)
 - 01.基础组件(9篇)
-- 02.IPC机制(0篇)
+- 02.IPC机制(7篇)
 - 03.View原理(7篇)
 - 04.动画机制(2篇)
-- 05.View事件(9篇)
+- 05.Res资源(6篇)
 - 06.消息机制(12篇)
-- 07.多媒体(9篇)
-- 08.View事件(4篇)
+- 07.多媒体(10篇)
+- 08.View事件(9篇)
 - 09.多线程(12篇)
 - 10.Window(11篇)
 - 11.WebView(4篇)
 - 12.网络相关(7篇)
-- 13.注解(13篇)
+- 13.注解(14篇)
 - 14.音视频(13篇)
-- 15.优化相关(8篇)
+- 15.优化相关(19篇)
 - 16.设计模式(4篇)
 - 20.零碎笔记(12篇)
-- 21.kotlin学习(11篇)
+- 21.kotlin学习(1篇)
 - 22.源码分析(11篇)
 - 23.架构技术(13篇)
-- 25.RecyclerView(25篇)
+- 25.RecyclerView(21篇)
+- 26.组件化(7篇)
 - **阅读更多请点击：[Android博客大汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/02.Android%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)**
 
 
@@ -169,6 +174,13 @@
 - **阅读更多请点击：[算法](https://github.com/yangchong211/YCBlogs/blob/master/blog/06.%E7%AE%97%E6%B3%95%E5%A4%A7%E6%B1%87%E6%80%BB.md)**
 
 
+### [08.Kotlin学习笔记](https://github.com/yangchong211/YCBlogs/blob/master/blog/08.Kotlin%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+- 01.Kotlin基础语法[4篇]
+- 02.Kotlin面向对象[5篇]
+- 03.Kotlin其他知识点[18篇]
+
+
+
 
 ### [09.生活博客汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/09.%E7%94%9F%E6%B4%BB%E5%8D%9A%E5%AE%A2%E6%B1%87%E6%80%BB.md)
 - [01.关于写博客的初衷](https://zhuanlan.zhihu.com/p/27659509)
@@ -232,7 +244,7 @@
 
 
 
-### [11.生活日记心得](https://github.com/yangchong211/YCBlogs/blob/master/blog/11.%E7%9F%A5%E8%AF%86%E7%AC%94%E8%AE%B0%E6%B1%87%E6%80%BB.md)
+### [11.知识问答汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/11.%E7%9F%A5%E8%AF%86%E7%AC%94%E8%AE%B0%E6%B1%87%E6%80%BB.md)
 - 0.1 工作心得[31篇]
 - 0.2 古典诗词[10篇]
 - 0.3 历史问题[127篇]
@@ -286,12 +298,8 @@
 
 
 ### 14.关于其他介绍
-#### 关于其他内容介绍
+#### 00.关于其他内容介绍
 ![image](https://upload-images.jianshu.io/upload_images/4432347-7100c8e5a455c3ee.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-#### 参考链接
-- 具体可以看参考链接这篇文章：
 
 
 #### 01.关于博客汇总链接
@@ -318,9 +326,18 @@
 
 
 
-### 03.勘误及提问
+#### 03.勘误及提问
 - 如果有疑问或者发现错误，可以在相应的 issues 进行提问或勘误。
 - 如果喜欢或者有所启发，欢迎star，对作者也是一种鼓励。除了部分已经投递过公众号外的文章，转载麻烦注明出处。
 
+
+
+#### 04.关于书籍推荐
+- [关于书籍推荐链接](https://github.com/yangchong211/YCBlogs/blob/master/blog/16.%E5%85%B3%E4%BA%8E%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90.md)
+    - 1.Java方面书籍
+    - 2.Android方法书籍
+    - 3.网络协议书籍
+    - 4.数据结构与算法
+    - 5.flutter书籍
 
 
