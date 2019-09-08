@@ -19,8 +19,6 @@
 
 
 
-
-
 ### 好消息
 - 博客笔记大汇总【16年3月到至今】，包括Java基础及深入知识点，Android技术博客，Python学习笔记等等，还包括平时开发中遇到的bug汇总，当然也在工作之余收集了大量的面试题，长期更新维护并且修正，持续完善……开源的文件是markdown格式的！同时也开源了生活博客，从12年起，积累共计N篇[近100万字，陆续搬到网上]，转载请注明出处，谢谢！
 - **链接地址：https://github.com/yangchong211/YCBlogs**
@@ -56,26 +54,30 @@
 ### [02.Android博客大汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/02.Android%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)
 - 01.基础组件(9篇)
 - 02.IPC机制(7篇)
-- 03.View原理(7篇)
+- 03.View原理(9篇)
 - 04.动画机制(2篇)
 - 05.Res资源(6篇)
 - 06.消息机制(12篇)
-- 07.多媒体(10篇)
+- 07.多媒体(16篇)
 - 08.View事件(9篇)
 - 09.多线程(12篇)
-- 10.Window(11篇)
+- 10.Window(19篇)
 - 11.WebView(4篇)
 - 12.网络相关(7篇)
 - 13.注解(14篇)
 - 14.音视频(13篇)
 - 15.优化相关(19篇)
-- 16.设计模式(4篇)
-- 20.零碎笔记(12篇)
-- 21.kotlin学习(1篇)
-- 22.源码分析(11篇)
+- 16.流行框架(23篇)
+- 17.数据处理(9篇)
+- 18.framwork
+- 19.复杂控件(16篇)
+- 20.Bug管理(6篇)
+- 21.经典总结(16篇)
 - 23.架构技术(13篇)
-- 25.RecyclerView(21篇)
+- 24.kotlin(29篇)
+- 25.RecyclerView(31篇)
 - 26.组件化(7篇)
+- 27.路由框架(7篇)
 - **阅读更多请点击：[Android博客大汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/02.Android%E5%8D%9A%E5%AE%A2%E5%A4%A7%E6%B1%87%E6%80%BB.md)**
 
 
@@ -100,6 +102,7 @@
 - [18.自定义折叠和展开布局](https://github.com/yangchong211/YCExpandView)
 - [19.商品详情页分页加载](https://github.com/yangchong211/YCShopDetailLayout)
 - [20.在任意View控件上设置红点控件](https://github.com/yangchong211/YCRedDotView)
+- [21.仿抖音一次滑动一个页面播放视频库](https://github.com/yangchong211/YCScrollPager)
 
 
 
@@ -197,7 +200,7 @@
 - [32.关于知识付费学习](https://zhuanlan.zhihu.com/p/36241614)
 - [33.关于修养与教养](https://zhuanlan.zhihu.com/p/36242841)
 - [34.关于如何看待加班](https://zhuanlan.zhihu.com/p/36245137)
-- [35.关于女生经济独立](https://zhuanlan.zhihu.com/p/36290299)
+- [35.关于经济独立](https://zhuanlan.zhihu.com/p/36290299)
 - [36.关于社交恐惧](https://zhuanlan.zhihu.com/p/36295540)
 - [37.关于慎独时教养](https://zhuanlan.zhihu.com/p/36298608)
 - [38.关于闲时莫论是非](https://zhuanlan.zhihu.com/p/36303999)
@@ -216,6 +219,11 @@
 - [51.关于网络孝子](https://zhuanlan.zhihu.com/p/60113403)
 - [52.关于技术路线杂谈](https://zhuanlan.zhihu.com/p/60119398)
 - [53.关于如何看待三观](https://zhuanlan.zhihu.com/p/60224540)
+- [54.关于读书杂谈](https://zhuanlan.zhihu.com/p/61473370)
+- [55.关于实在之说](https://zhuanlan.zhihu.com/p/61473692)
+- [56.关于生活聚会](https://zhuanlan.zhihu.com/p/77101294)
+- [57.关于爱与自由](https://zhuanlan.zhihu.com/p/77603015)
+- [58.关于财务平衡](https://zhuanlan.zhihu.com/p/79292905)
 - **关于生活博客更多内容，可以直接看：[生活博客汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/09.%E7%94%9F%E6%B4%BB%E5%8D%9A%E5%AE%A2%E6%B1%87%E6%80%BB.md)**
 
 
