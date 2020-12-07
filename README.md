@@ -9,7 +9,7 @@
 - 07.Python学习笔记
 - 08.Kotlin学习笔记
 - 09.生活博客汇总
-- 10.喜马拉雅汇总
+- 10.设计模式笔记
 - 11.知识问答汇总
 - 12.Flutter博客汇总
 - 13.网络协议汇总
@@ -227,8 +227,13 @@
 - **关于生活博客更多内容，可以直接看：[生活博客汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/09.%E7%94%9F%E6%B4%BB%E5%8D%9A%E5%AE%A2%E6%B1%87%E6%80%BB.md)**
 
 
-### [10.喜马拉雅汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/10.%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%B1%87%E6%80%BB.md)
-- 更多可以看：[喜马拉雅汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/10.%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%B1%87%E6%80%BB.md)
+### [10.设计模式笔记](https://github.com/yangchong211/YCBlogs/blob/master/blog/19.%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%B1%87%E6%80%BB.md)
+- 01.设计模式导读(6篇)
+- 02.行为型模式(17篇)
+- 03.创建型模式(14篇)
+- 04.结构型模式(16篇)
+- 05.面向对象思想(9篇)
+- 06.代码设计原则(11篇)
 
 
 
