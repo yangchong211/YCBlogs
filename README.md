@@ -20,15 +20,16 @@
 
 
 ### 好消息
-- 博客笔记大汇总【16年3月到至今】，包括Java基础及深入知识点，Android技术博客，Python学习笔记等等，还包括平时开发中遇到的bug汇总，当然也在工作之余收集了大量的面试题，长期更新维护并且修正，持续完善……开源的文件是markdown格式的！同时也开源了生活博客，从12年起，积累共计N篇[近100万字，陆续搬到网上]，转载请注明出处，谢谢！
+- 博客笔记大汇总【15年9月到至今】，包括Java基础及深入知识点，Android技术博客，Python学习笔记等等，还包括平时开发中遇到的bug汇总，当然也在工作之余收集了大量的面试题，长期更新维护并且修正，持续完善……开源的文件是markdown格式的！同时也开源了生活博客，从12年起，积累共计N篇[近100万字，陆续搬到网上]，转载请注明出处，谢谢！
 - **链接地址：https://github.com/yangchong211/YCBlogs**
 - 如果觉得好，可以star一下，谢谢！当然也欢迎提出建议或者问题，万事起于忽微，量变引起质变！
 - 重点推荐：
     - [关于未来需求](https://zhuanlan.zhihu.com/p/30345990)，可能值得我们这些小伙子思考……
     - [关于坚持的价值](https://zhuanlan.zhihu.com/p/30969254)
-    - 还有就是如果觉得好，可以收藏这篇文章，免得以后找不到，😄。我相信当你看到这篇文章后，定会了解到作者耗费了多少的心血，当然也会存在不足之处，我会持续完善！我入行较晚，从入行之前，就有记录笔记的习惯，不仅仅是技术类的笔记，生活所见所思，看新闻思考，读书笔记等等，一直在前行的路上……后来偶然的一次机会看到鸿洋大神的todo工作法，深受大神很大的影响，也在不断的学习。博客开始无人问津，也十分感谢鸿洋大神，郭霖大神，码个蛋等等部分博客推荐，后来慢慢有了一点阅读量……
+    - 还有就是如果觉得好，可以收藏这篇文章，免得以后找不到，😄。我相信当你看到这篇文章后，定会了解到作者耗费了多少的心血，当然也会存在不足之处，我会持续完善！从入行之前，就有记录笔记的习惯，不仅仅是技术类的笔记，生活所见所思，看新闻思考，历史人文，读书笔记等等，一直在前行的路上……后来偶然的一次机会看到鸿洋大神的todo工作法，深受大神很大的影响，也在不断的学习。博客开始无人问津，也十分感谢鸿洋大神，郭霖大神，码个蛋等等部分博客推荐，后来慢慢有了一点阅读量……
     - 当然，我认为不一定非要成为像任主席，鸿洋那样的大神才去分享，或者达到郭神那样级别去写书。也可以在成长的同时，记录点滴的笔记，分享出来，说不定就帮助某个人解决了问题……哈哈！
-
+- 要像傻逼一样的去坚持
+    - 别太关注短期的收益，也不要忽略长期的回报。重在落实到具体的行动，做一个坚定的执行者……
 
 
 
@@ -166,64 +167,71 @@
 
 
 ### [09.生活博客汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/09.%E7%94%9F%E6%B4%BB%E5%8D%9A%E5%AE%A2%E6%B1%87%E6%80%BB.md)
-- [01.关于写博客的初衷](https://zhuanlan.zhihu.com/p/27659509)
-- [02.关于生活中思考](https://zhuanlan.zhihu.com/p/27765832)
-- [03.关于小时候的回忆](https://zhuanlan.zhihu.com/p/28190479)
+- [01.关于写博客初衷](https://zhuanlan.zhihu.com/p/27659509)
+- [02.关于生活的思考](https://zhuanlan.zhihu.com/p/27765832)
+- [03.关于儿时之回忆](https://zhuanlan.zhihu.com/p/28190479)
 - [04.关于碎片化阅读](https://zhuanlan.zhihu.com/p/28342119)
-- [05.关于未来需求](https://zhuanlan.zhihu.com/p/30345990)
-- [06.关于换位思考感悟](https://zhuanlan.zhihu.com/p/30529286)
-- [07.关于对武侠思考](https://zhuanlan.zhihu.com/p/30794075)
-- [08.关于古人畅怀作乐](https://zhuanlan.zhihu.com/p/30960063)
+- [05.关于未来的需求](https://zhuanlan.zhihu.com/p/30345990)
+    - 年轻压力相对小，日积月累冲抵靠。追求生活成美梦，目标计划要趁早。
+    - 未来需求有那些，十年价值难增长。创造美好地生活，有钱才能更任性。
+- [06.关于换位之思考](https://zhuanlan.zhihu.com/p/30529286)
+- [07.关于武侠情怀论](https://zhuanlan.zhihu.com/p/30794075)
+- [08.关于古人的作乐](https://zhuanlan.zhihu.com/p/30960063)
 - [09.关于坚持的价值](https://zhuanlan.zhihu.com/p/30969254)
-- [10.关于写博客那回事](https://zhuanlan.zhihu.com/p/31121938)
-- [11.关于打麻将那回事](https://zhuanlan.zhihu.com/p/31884108)
-- [12.关于朋友圈的点滴](https://zhuanlan.zhihu.com/p/31922306)
+- [10.关于博客的杂谈](https://zhuanlan.zhihu.com/p/31121938)
+- [11.关于打麻将精神](https://zhuanlan.zhihu.com/p/31884108)
+- [12.关于朋友圈点滴](https://zhuanlan.zhihu.com/p/31922306)
 - [13.关于什么是稳定](https://zhuanlan.zhihu.com/p/32136114)
 - [14.关于输入和输出](https://zhuanlan.zhihu.com/p/32515800)
-- [15.关于如何看待网络暴力](https://zhuanlan.zhihu.com/p/32682353)
+- [15.关于网络的暴力](https://zhuanlan.zhihu.com/p/32682353)
 - [16.关于靠谱那回事](https://zhuanlan.zhihu.com/p/33563691)
-- [17.关于如何看待人脉](https://zhuanlan.zhihu.com/p/33733478)
-- [18.关于认知困境讨论](https://zhuanlan.zhihu.com/p/34007138)
-- [19.关于如何看待“抢”文化](https://zhuanlan.zhihu.com/p/34079034)
-- [20.关于中产阶级困扰](https://zhuanlan.zhihu.com/p/35329263)
-- [21.关于道德高点的爱](https://zhuanlan.zhihu.com/p/35331154)
-- [22.关于武侠爱情箴言](https://zhuanlan.zhihu.com/p/35331269)
+- [17.关于看待之人脉](https://zhuanlan.zhihu.com/p/33733478)
+- [18.关于认知的困境](https://zhuanlan.zhihu.com/p/34007138)
+- [19.关于“抢”的文化](https://zhuanlan.zhihu.com/p/34079034)
+- [20.关于中产的困扰](https://zhuanlan.zhihu.com/p/35329263)
+- [21.关于道德高点爱](https://zhuanlan.zhihu.com/p/35331154)
+- [22.关于武侠的爱情](https://zhuanlan.zhihu.com/p/35331269)
 - [23.关于有趣绕口令](https://zhuanlan.zhihu.com/p/35331412)
-- [24.如何性子直与自私](https://zhuanlan.zhihu.com/p/35331465)
-- [25.关于构建知识图谱](https://zhuanlan.zhihu.com/p/35331537)
-- [26.关于目标分解完成](https://zhuanlan.zhihu.com/p/35343063)
-- [27.关于大学毕业后差距](https://zhuanlan.zhihu.com/p/35352434)
-- [28.关于人格破产这回事](https://zhuanlan.zhihu.com/p/35360637)
-- [29.关于看书提升能力](https://zhuanlan.zhihu.com/p/35361636)
-- [30.关于打造自己世界](https://zhuanlan.zhihu.com/p/35373504)
-- [31.关于撩和追的区别](https://zhuanlan.zhihu.com/p/35375531)
-- [32.关于知识付费学习](https://zhuanlan.zhihu.com/p/36241614)
+- [24.如何性子直自私](https://zhuanlan.zhihu.com/p/35331465)
+- [25.关于建知识图谱](https://zhuanlan.zhihu.com/p/35331537)
+- [26.关于目标之分解](https://zhuanlan.zhihu.com/p/35343063)
+- [27.关于毕业后差距](https://zhuanlan.zhihu.com/p/35352434)
+- [28.关于人格的破产](https://zhuanlan.zhihu.com/p/35360637)
+- [29.关于看书升能力](https://zhuanlan.zhihu.com/p/35361636)
+- [30.关于打造独世界](https://zhuanlan.zhihu.com/p/35373504)
+- [31.关于撩追的区别](https://zhuanlan.zhihu.com/p/35375531)
+- [32.关于知识的付费](https://zhuanlan.zhihu.com/p/36241614)
 - [33.关于修养与教养](https://zhuanlan.zhihu.com/p/36242841)
-- [34.关于如何看待加班](https://zhuanlan.zhihu.com/p/36245137)
-- [35.关于经济独立](https://zhuanlan.zhihu.com/p/36290299)
-- [36.关于社交恐惧](https://zhuanlan.zhihu.com/p/36295540)
+- [34.关于如何看加班](https://zhuanlan.zhihu.com/p/36245137)
+- [35.关于经济之独立](https://zhuanlan.zhihu.com/p/36290299)
+- [36.关于社交的恐惧](https://zhuanlan.zhihu.com/p/36295540)
 - [37.关于慎独时教养](https://zhuanlan.zhihu.com/p/36298608)
-- [38.关于闲时莫论是非](https://zhuanlan.zhihu.com/p/36303999)
+- [38.关于闲莫论是非](https://zhuanlan.zhihu.com/p/36303999)
 - [39.关于人情这回事](https://zhuanlan.zhihu.com/p/36700683)
-- [40.关于提升说话技巧](https://zhuanlan.zhihu.com/p/36740716)
-- [41.关于看待朋友圈营销](https://zhuanlan.zhihu.com/p/38206390)
-- [42.关于老年人生活探讨](https://zhuanlan.zhihu.com/p/45862226)
+- [40.关于提升话技巧](https://zhuanlan.zhihu.com/p/36740716)
+- [41.关于看待朋友圈](https://zhuanlan.zhihu.com/p/38206390)
+- [42.关于老年人生活](https://zhuanlan.zhihu.com/p/45862226)
 - [43.关于道德与善良](https://zhuanlan.zhihu.com/p/46005562)
 - [44.关于礼物的价格](https://zhuanlan.zhihu.com/p/46005647)
 - [45.关于借钱和讨债](https://zhuanlan.zhihu.com/p/46014833)
 - [46.关于赚钱和值钱](https://zhuanlan.zhihu.com/p/46030257)
-- [47.关于朋友间的样子](https://zhuanlan.zhihu.com/p/46122790)
+- [47.关于朋友间样子](https://zhuanlan.zhihu.com/p/46122790)
 - [48.关于看客的热闹](https://zhuanlan.zhihu.com/p/46138200)
-- [49.关于如何看待仪式感](https://zhuanlan.zhihu.com/p/47297212)
-- [50.关于如何看待巨婴心理](https://zhuanlan.zhihu.com/p/47883816)
-- [51.关于网络孝子](https://zhuanlan.zhihu.com/p/60113403)
-- [52.关于技术路线杂谈](https://zhuanlan.zhihu.com/p/60119398)
-- [53.关于如何看待三观](https://zhuanlan.zhihu.com/p/60224540)
-- [54.关于读书杂谈](https://zhuanlan.zhihu.com/p/61473370)
-- [55.关于实在之说](https://zhuanlan.zhihu.com/p/61473692)
-- [56.关于生活聚会](https://zhuanlan.zhihu.com/p/77101294)
-- [57.关于爱与自由](https://zhuanlan.zhihu.com/p/77603015)
-- [58.关于财务平衡](https://zhuanlan.zhihu.com/p/79292905)
+- [49.关于看待仪式感](https://zhuanlan.zhihu.com/p/47297212)
+- [50.关于巨婴的心理](https://zhuanlan.zhihu.com/p/47883816)
+- [51.关于网络之孝子](https://zhuanlan.zhihu.com/p/60113403)
+- [52.关于技术路线谈](https://zhuanlan.zhihu.com/p/60119398)
+- [53.关于看待之三观](https://zhuanlan.zhihu.com/p/60224540)
+- [54.关于读书的杂谈](https://zhuanlan.zhihu.com/p/61473370)
+- [55.关于实在之说论](https://zhuanlan.zhihu.com/p/61473692)
+- [56.关于生活的聚会](https://zhuanlan.zhihu.com/p/77101294)
+- [57.关于谈爱与自由](https://zhuanlan.zhihu.com/p/77603015)
+- [58.关于财务的平衡](https://zhuanlan.zhihu.com/p/79292905)
+    - 梦中幻想财自由，现实两点且一线。害怕生病频加班，努力向前不止步。
+    - 花钱欲望止不住，能力却是难匹配。延迟欲望满足感，控制消费为已用。
+    - 投资理念人人懂，请先做到财平衡。收入支出需平衡，消费不超赚的钱。
+    - 缓解生活之焦虑，能力成长快于欲。把控人生多风险，还需购买一保险。
+    - 经济盈余再谈它，财务还需持平衡。
 - **关于生活博客更多内容，可以直接看：[生活博客汇总](https://github.com/yangchong211/YCBlogs/blob/master/blog/09.%E7%94%9F%E6%B4%BB%E5%8D%9A%E5%AE%A2%E6%B1%87%E6%80%BB.md)**
 
 
